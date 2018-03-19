@@ -77,12 +77,29 @@ if depth >= 1:
 						for k in graphd[j]:
 							if k not in graphd:
 								build_rel(k)
-
+for l in sorted(graphd.values()):
+	for v in l:
+		if v not in graphd:
+			graphd[v]
 
 if args.vcount:
-	print(len(graphd.keys()))
-elif args.vlist:
-	for i in graphd.keys():
+	print("Vertex Count: {0}".format(len(graphd.keys())))
+
+if args.vlist:
+	for i in sorted(graphd.keys()):
 		print(i)
 
+if args.ecount:
+	ec = 0
+	for i in sorted(graphd.keys()):
+		for k in sorted(graphd[i]):
+			ec += 1
+	print("Edge Count: {0}".format(ec))
 
+if args.elist:
+	for i in sorted(graphd.keys()):
+		for k in sorted(graphd[i]):
+			print("{0} -> {1}".format(i, k))
+
+
+	
