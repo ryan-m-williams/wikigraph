@@ -1,0 +1,1872 @@
+Category:Access control	Category:Authentication
+Category:Access control	Category:Authentication methods
+Category:Access control	Category:Computer access control
+Category:Access control	Category:Guardhouses
+Category:Access control	Category:Identification
+Category:Access control software	Category:Biometrics software
+Category:Access control software	Category:Directory services
+Category:Access control software	Category:Identity management systems
+Category:Access control software	Category:Unix authentication-related software
+Category:Adware	Category:Windows adware
+Category:Airliner accidents and incidents involving engineering failures	Category:Airliner accidents and incidents caused by electrical failure
+Category:Airliner accidents and incidents involving engineering failures	Category:Airliner accidents and incidents caused by in-flight structural failure
+Category:Airliner accidents and incidents involving engineering failures	Category:Airliner accidents and incidents caused by mechanical failure
+Category:Airliner accidents and incidents involving engineering failures	Category:Airliner accidents and incidents involving belly landings
+Category:Alt-right	Category:Alt-right politicians
+Category:Alt-right	Category:Alt-right writers
+Category:Alt-right	Category:American Freedom Party
+Category:Alt-right	Category:Breitbart News
+Category:Alt-right	Category:Counter-jihad activists
+Category:Alt-right	Category:Dark Enlightenment
+Category:Alt-right	Category:Identitarian movement
+Category:Alt-right	Category:National Socialist black metal musical groups
+Category:Alt-right	Category:The Great Replacement conspiracy theorists
+Category:Alt-right	Category:Unite the Right rally
+Category:Alt-right	Category:White genocide conspiracy theorists
+Category:Alt-right	Category:White genocide conspiracy theory
+Category:Alt-right politicians	Category:Alt-right politicians by continent
+Category:American cryptographers	Category:National Security Agency cryptographers
+Category:American cryptographers	Category:Signals Intelligence Service cryptographers
+Category:Animal identification	Category:Identification of domesticated animals
+Category:Animal identification	Category:Wild animals identification
+Category:Anonymity	Category:Anonymity networks
+Category:Anonymity	Category:Anonymity pseudonyms
+Category:Anonymity	Category:Anonymous (group)
+Category:Anonymity	Category:Anonymous artists
+Category:Anonymity	Category:Anonymous bloggers
+Category:Anonymity	Category:Anonymous social media
+Category:Anonymity	Category:Anonymous works
+Category:Anonymity	Category:Fictional characters without a name
+Category:Anonymity networks	Category:Anonymous file sharing networks
+Category:Anonymity networks	Category:I2P
+Category:Anonymity networks	Category:Tor (anonymity network)
+Category:Anonymity pseudonyms	Category:Anonymous (group)
+Category:Anonymous (group)	Category:Anonymous (group) activists
+Category:Anonymous artists	Category:Anonymous artists of antiquity
+Category:Anonymous works	Category:Anonymous lais
+Category:Anonymous works	Category:Anonymous musical compositions
+Category:Anonymous works	Category:Folk songs
+Category:Anonymous works	Category:Works published anonymously
+Category:Anthropometry	Category:Anthropometric data tables
+Category:Anthropometry	Category:Body shape
+Category:Anthropometry	Category:Fingerprints
+Category:Anthropometry	Category:Human size
+Category:Anthropometry	Category:Medical imaging
+Category:Anthropometry	Category:Sizes in clothing
+Category:Anti-forensic software	Category:Data erasure software
+Category:Anti-spam	Category:Spam filtering
+Category:Antivirus software	Category:Antivirus software for DOS
+Category:Antivirus software	Category:Antivirus software for Linux
+Category:Antivirus software	Category:Free antivirus software
+Category:Antivirus software	Category:Screenshots of antivirus software
+Category:Antivirus software for Linux	Category:Antivirus software that uses GTK+
+Category:Antivirus software for Linux	Category:Antivirus software that uses Qt
+Category:Applications of cryptography	Category:Anonymity networks
+Category:Applications of cryptography	Category:Authentication
+Category:Applications of cryptography	Category:Authentication methods
+Category:Applications of cryptography	Category:Crypto-anarchism
+Category:Applications of cryptography	Category:Digital rights management
+Category:Applications of cryptography	Category:E-commerce
+Category:Applications of cryptography	Category:Financial cryptography
+Category:Applications of cryptography	Category:Kleptography
+Category:Applications of cryptography	Category:Secret broadcasting
+Category:Applications of cryptography	Category:WikiLeaks
+Category:Asymmetric-key algorithms	Category:Digital signature schemes
+Category:Asymmetric-key algorithms	Category:Public-key encryption schemes
+Category:Asymmetric-key algorithms	Category:Zero-knowledge protocols
+Category:Attacks on public-key cryptosystems	Category:RSA Factoring Challenge
+Category:Authentication	Category:Authentication methods
+Category:Authentication	Category:Authentication protocols
+Category:Authentication	Category:Email authentication
+Category:Authentication	Category:Identification
+Category:Authentication methods	Category:Biometrics
+Category:Authentication methods	Category:Caller ID
+Category:Authentication methods	Category:Computer access control protocols
+Category:Authentication methods	Category:Identification friend or foe
+Category:Authentication methods	Category:Identity documents
+Category:Authentication methods	Category:Message authentication codes
+Category:Authentication methods	Category:Password authentication
+Category:Authentication methods	Category:Personal identification
+Category:Authentication methods	Category:Seals (insignia)
+Category:Authentication methods	Category:Shibboleths
+Category:Authentication methods	Category:Signature
+Category:Authentication methods	Category:Turing tests
+Category:Authentication methods	Category:Watermarking
+Category:Automatic identification and data capture	Category:Biometrics
+Category:Automatic identification and data capture	Category:Indoor positioning system
+Category:Automatic identification and data capture	Category:Mass digitization
+Category:Automatic identification and data capture	Category:Radio direction finding
+Category:Automatic identification and data capture	Category:Radio-frequency identification
+Category:Automatic identification and data capture	Category:Radio-frequency identification companies
+Category:Automotive technology tradenames	Category:Automatic transmission tradenames
+Category:Automotive technology tradenames	Category:Four-wheel-drive system tradenames
+Category:Backup	Category:Backup software
+Category:Backup	Category:Disk cloning
+Category:Backup	Category:Online backup services
+Category:Backup	Category:System image
+Category:Backup software	Category:Backup software for DOS
+Category:Backup software	Category:Backup software for Linux
+Category:Backup software	Category:Backup software for Mac OS
+Category:Backup software	Category:Backup software for Windows
+Category:Backup software	Category:Free backup software
+Category:Backup software for Linux	Category:File hosting for Linux
+Category:Backup software for Mac OS	Category:Backup software for MacOS
+Category:Backup software for MacOS	Category:File hosting for MacOS
+Category:Backup software for Windows	Category:File hosting for Windows
+Category:Barcodes	Category:Video games using barcodes
+Category:Bioimaging software	Category:DICOM software
+Category:Bioimaging software	Category:Facial recognition software
+Category:Bioimaging software	Category:Free bioimaging software
+Category:Bioimaging software	Category:Neuroimaging software
+Category:Biometric databases	Category:National DNA databases
+Category:Biometrics	Category:Anthropometry
+Category:Biometrics	Category:Biometric databases
+Category:Biometrics	Category:Biometrics software
+Category:Biometrics	Category:Face recognition
+Category:Biometrics	Category:Fingerprints
+Category:Biometrics	Category:Graphology
+Category:Biometrics	Category:Signature
+Category:Biometrics software	Category:Bioimaging software
+Category:Biometrics software	Category:Facial recognition software
+Category:Biuro Szyfrów	Category:Polish cryptographers
+Category:Bletchley Park	Category:Bletchley Park people
+Category:Bletchley Park people	Category:Bletchley Park women
+Category:Botnets	Category:Computer security companies specializing in botnets
+Category:Bots	Category:Chatterbots
+Category:Bots	Category:Computer poker players
+Category:Bots	Category:Internet Relay Chat bots
+Category:Brand management	Category:Altagamma members
+Category:Brand management	Category:Automotive technology tradenames
+Category:Brand management	Category:Brand valuation
+Category:Brand management	Category:Branding companies
+Category:Brand management	Category:Branding consultants
+Category:Brand management	Category:Branding organizations
+Category:Brand management	Category:Branding terminology
+Category:Brand management	Category:Bundled products or services
+Category:Brand management	Category:Comité Colbert members
+Category:Brand management	Category:DreamWorks Classics
+Category:Brand management	Category:French wine AOCs
+Category:Brand management	Category:Merchandise
+Category:Brand management	Category:Television presentation
+Category:Brand management	Category:Tourism campaigns
+Category:Brand management	Category:Trademarks
+Category:Brand management	Category:Types of branding
+Category:Brand management	Category:WWE brand extension
+Category:Branding companies	Category:Branding companies of the United States
+Category:Branding companies	Category:Branding terminology
+Category:Branding organizations	Category:Branding companies
+Category:Breitbart News	Category:Breitbart News people
+Category:British cryptographers	Category:Alan Turing
+Category:British cryptographers	Category:Bletchley Park people
+Category:British cryptographers	Category:Government Communications Headquarters cryptographers
+Category:Broken block ciphers	Category:Advanced Encryption Standard
+Category:Broken block ciphers	Category:Data Encryption Standard
+Category:Broken cryptography algorithms	Category:Broken block ciphers
+Category:Broken cryptography algorithms	Category:Broken hash functions
+Category:Broken cryptography algorithms	Category:Broken stream ciphers
+Category:Broken cryptography algorithms	Category:EMV
+Category:Broken stream ciphers	Category:Classical ciphers
+Category:Building collapses	Category:Building collapses by country
+Category:Building collapses	Category:Building collapses by year
+Category:Building collapses	Category:Collapsed buildings and structures
+Category:Call signs	Category:Amateur radio call signs
+Category:Camps of the Gulag	Category:MVD special camps
+Category:Certificate authorities	Category:Former certificate authorities
+Category:Checksum algorithms	Category:Cyclic redundancy checks
+Category:Checksum algorithms	Category:International Standard Book Number
+Category:Chemical disasters	Category:Bhopal disaster
+Category:Chinese seal art	Category:Chinese seal artists
+Category:Ciphers	Category:Block ciphers
+Category:Ciphers	Category:Classical ciphers
+Category:Ciphers	Category:Free ciphers
+Category:Ciphers	Category:Stream ciphers
+Category:Ciphers	Category:Undeciphered historical codes and ciphers
+Category:Classical ciphers	Category:Fictional languages
+Category:Classical cryptography	Category:Classical ciphers
+Category:Code talkers	Category:Assiniboine code talkers
+Category:Code talkers	Category:Choctaw code talkers
+Category:Code talkers	Category:Comanche code talkers
+Category:Code talkers	Category:Navajo code talkers
+Category:Commerce websites	Category:CNET
+Category:Commerce websites	Category:Classified advertising websites
+Category:Commerce websites	Category:Commerce website stubs
+Category:Commerce websites	Category:Comparison shopping websites
+Category:Commerce websites	Category:Darknet markets
+Category:Commerce websites	Category:Deal of the day services
+Category:Commerce websites	Category:Online auction websites
+Category:Commerce websites	Category:Online food ordering
+Category:Commerce websites	Category:Online marketplaces
+Category:Commerce websites	Category:Online retailers
+Category:Commerce websites	Category:Real estate websites
+Category:Commerce websites	Category:Reward websites
+Category:Commerce websites	Category:Self-publishing online stores
+Category:Communications Security Establishment Canada	Category:Communications Security Establishment Canada buildings and structures
+Category:Communications Security Establishment Canada	Category:Communications Security Establishment Canada people
+Category:Compact Disc and DVD copy protection	Category:Advanced Access Content System
+Category:Compact Disc and DVD copy protection	Category:DVD Copy Control Association
+Category:Computational trust	Category:Authentication
+Category:Computational trust	Category:Public key infrastructure
+Category:Computer access control	Category:Access control software
+Category:Computer access control	Category:Authentication
+Category:Computer access control	Category:Computer access control frameworks
+Category:Computer access control	Category:Computer access control protocols
+Category:Computer access control	Category:Digital rights management
+Category:Computer access control	Category:Federated identity
+Category:Computer access control	Category:Identity management
+Category:Computer access control	Category:Password authentication
+Category:Computer access control	Category:Smart cards
+Category:Computer access control	Category:Turing tests
+Category:Computer access control frameworks	Category:Federated identity
+Category:Computer access control protocols	Category:Directory services
+Category:Computer access control protocols	Category:Key derivation functions
+Category:Computer criminals	Category:Computer criminals by nationality
+Category:Computer criminals	Category:Fictional hackers
+Category:Computer criminals	Category:Spammers
+Category:Computer criminals by nationality	Category:American computer criminals
+Category:Computer criminals by nationality	Category:Australian computer criminals
+Category:Computer criminals by nationality	Category:British computer criminals
+Category:Computer criminals by nationality	Category:Bulgarian computer criminals
+Category:Computer criminals by nationality	Category:Canadian computer criminals
+Category:Computer criminals by nationality	Category:French computer criminals
+Category:Computer criminals by nationality	Category:German computer criminals
+Category:Computer criminals by nationality	Category:Israeli computer criminals
+Category:Computer criminals by nationality	Category:Japanese computer criminals
+Category:Computer criminals by nationality	Category:Moroccan computer criminals
+Category:Computer criminals by nationality	Category:New Zealand computer criminals
+Category:Computer criminals by nationality	Category:Pakistani computer criminals
+Category:Computer criminals by nationality	Category:Romanian computer criminals
+Category:Computer criminals by nationality	Category:Russian computer criminals
+Category:Computer criminals by nationality	Category:Swedish computer criminals
+Category:Computer criminals by nationality	Category:Ukrainian computer criminals
+Category:Computer forensics	Category:Computer surveillance
+Category:Computer forensics	Category:Digital forensics software
+Category:Computer law	Category:Companies' terms of service
+Category:Computer law	Category:Computer case law
+Category:Computer law	Category:Computer law activists
+Category:Computer law	Category:Computer law organizations
+Category:Computer law	Category:Computer law scholars
+Category:Computer law	Category:Computer law treaties
+Category:Computer law	Category:Computing legislation
+Category:Computer law	Category:Computing-related controversies and disputes
+Category:Computer law	Category:Crypto-anarchism
+Category:Computer law	Category:Cryptography law
+Category:Computer law	Category:Cybercrime
+Category:Computer law	Category:Data retention
+Category:Computer law	Category:Digital forensics
+Category:Computer law	Category:Electronic Frontier Foundation
+Category:Computer law	Category:Internet censorship
+Category:Computer law	Category:Internet governance
+Category:Computer law	Category:Internet law
+Category:Computer law	Category:Net neutrality
+Category:Computer law	Category:Notorious markets
+Category:Computer law	Category:Software law
+Category:Computer law	Category:Terms of service
+Category:Computer law	Category:Video game law
+Category:Computer law	Category:Works about computer law
+Category:Computer network security	Category:Antivirus software
+Category:Computer network security	Category:Computer access control
+Category:Computer network security	Category:Computer security exploits
+Category:Computer network security	Category:Email authentication
+Category:Computer network security	Category:Firewall software
+Category:Computer network security	Category:Internet security
+Category:Computer network security	Category:Network analyzers
+Category:Computer network security	Category:Network mappers
+Category:Computer network security	Category:Spam filtering
+Category:Computer network security	Category:Virtual private networks
+Category:Computer security	Category:Access control
+Category:Computer security	Category:Cloud infrastructure attacks & failures
+Category:Computer security	Category:Computational trust
+Category:Computer security	Category:Computer access control
+Category:Computer security	Category:Computer forensics
+Category:Computer security	Category:Computer network security
+Category:Computer security	Category:Computer security books
+Category:Computer security	Category:Computer security companies
+Category:Computer security	Category:Computer security exploits
+Category:Computer security	Category:Computer security models
+Category:Computer security	Category:Computer security organizations
+Category:Computer security	Category:Computer security procedures
+Category:Computer security	Category:Computer security qualifications
+Category:Computer security	Category:Computer security software
+Category:Computer security	Category:Computer security standards
+Category:Computer security	Category:Computer security stubs
+Category:Computer security	Category:Computer surveillance
+Category:Computer security	Category:Cryptography
+Category:Computer security	Category:Data security
+Category:Computer security	Category:IT risk management
+Category:Computer security	Category:Information privacy
+Category:Computer security	Category:Mobile security
+Category:Computer security	Category:Operating system security
+Category:Computer security	Category:People associated with computer security
+Category:Computer security	Category:Trusted computing
+Category:Computer security books	Category:Cryptography books
+Category:Computer security companies	Category:Chief technology officers of computer security companies
+Category:Computer security companies	Category:Computer security software companies
+Category:Computer security companies	Category:DDoS mitigation companies
+Category:Computer security exploits	Category:Common vulnerabilities and exposures
+Category:Computer security exploits	Category:Cryptographic attacks
+Category:Computer security exploits	Category:Cybercrime
+Category:Computer security exploits	Category:Denial-of-service attacks
+Category:Computer security exploits	Category:Injection exploits
+Category:Computer security exploits	Category:Malware
+Category:Computer security exploits	Category:Privilege escalation exploits
+Category:Computer security exploits	Category:Web security exploits
+Category:Computer security models	Category:Capability systems
+Category:Computer security organizations	Category:(ISC)²
+Category:Computer security organizations	Category:Chief executives of computer security organizations
+Category:Computer security organizations	Category:Computer security companies specializing in botnets
+Category:Computer security organizations	Category:Digital forensics organisations
+Category:Computer security organizations	Category:National cyber security centres
+Category:Computer security procedures	Category:Computer security accreditations
+Category:Computer security procedures	Category:Computer security qualifications
+Category:Computer security procedures	Category:Computer security standards
+Category:Computer security procedures	Category:File system permissions
+Category:Computer security procedures	Category:Security testing tools
+Category:Computer security qualifications	Category:Digital forensics certification
+Category:Computer security software	Category:Anti-forensic software
+Category:Computer security software	Category:Antivirus software
+Category:Computer security software	Category:Brute force blocking software
+Category:Computer security software	Category:Computer access control frameworks
+Category:Computer security software	Category:Computer forensics
+Category:Computer security software	Category:Computer security software companies
+Category:Computer security software	Category:Computer security software stubs
+Category:Computer security software	Category:Cryptographic software
+Category:Computer security software	Category:Data erasure software
+Category:Computer security software	Category:Digital forensics software
+Category:Computer security software	Category:Firewall software
+Category:Computer security software	Category:Free security software
+Category:Computer security software	Category:I2P
+Category:Computer security software	Category:Intrusion detection systems
+Category:Computer security software	Category:Linux security software
+Category:Computer security software	Category:MacOS security software
+Category:Computer security software	Category:Operating system security
+Category:Computer security software	Category:Password managers
+Category:Computer security software	Category:Privacy software
+Category:Computer security software	Category:Rootkit detection software
+Category:Computer security software	Category:Security testing tools
+Category:Computer security software	Category:Software update managers
+Category:Computer security software	Category:Spyware removal
+Category:Computer security software	Category:Tor (anonymity network)
+Category:Computer security software	Category:Unix security software
+Category:Computer security software	Category:Unix security-related software
+Category:Computer security software	Category:Windows security software
+Category:Computer security software companies	Category:Computer security companies specializing in botnets
+Category:Computer security software companies	Category:McAfee
+Category:Computer security specialists	Category:Chief security officers
+Category:Computer security specialists	Category:Chief technology officers of computer security companies
+Category:Computer security specialists	Category:Modern cryptographers
+Category:Computer security specialists	Category:Writers about computer security
+Category:Computer security stubs	Category:Computer security software stubs
+Category:Computer security stubs	Category:Cryptography stubs
+Category:Computer security stubs	Category:Malware stubs
+Category:Computer surveillance	Category:Edward Snowden
+Category:Computer viruses	Category:Amiga viruses
+Category:Computer viruses	Category:Antivirus software
+Category:Computer viruses	Category:Classic Mac OS viruses
+Category:Computer viruses	Category:DOS viruses
+Category:Computer viruses	Category:Fictional computer viruses
+Category:Computer viruses	Category:Linux viruses
+Category:Computer viruses	Category:Macro viruses
+Category:Computer viruses	Category:Windows viruses
+Category:Computer worms	Category:Email worms
+Category:Computer worms	Category:Exploit-based worms
+Category:Computer_security	Category:Access control
+Category:Computer_security	Category:Cloud infrastructure attacks & failures
+Category:Computer_security	Category:Computational trust
+Category:Computer_security	Category:Computer access control
+Category:Computer_security	Category:Computer forensics
+Category:Computer_security	Category:Computer network security
+Category:Computer_security	Category:Computer security books
+Category:Computer_security	Category:Computer security companies
+Category:Computer_security	Category:Computer security exploits
+Category:Computer_security	Category:Computer security models
+Category:Computer_security	Category:Computer security organizations
+Category:Computer_security	Category:Computer security procedures
+Category:Computer_security	Category:Computer security qualifications
+Category:Computer_security	Category:Computer security software
+Category:Computer_security	Category:Computer security standards
+Category:Computer_security	Category:Computer security stubs
+Category:Computer_security	Category:Computer surveillance
+Category:Computer_security	Category:Cryptography
+Category:Computer_security	Category:Data security
+Category:Computer_security	Category:IT risk management
+Category:Computer_security	Category:Information privacy
+Category:Computer_security	Category:Mobile security
+Category:Computer_security	Category:Operating system security
+Category:Computer_security	Category:People associated with computer security
+Category:Computer_security	Category:Trusted computing
+Category:Construction accidents	Category:Bridge disasters caused by construction error
+Category:Construction accidents	Category:Construction accidents in the United States
+Category:Contactless smart cards	Category:Near Field Communications
+Category:Copy protection	Category:Compact Disc and DVD copy protection
+Category:Copy protection	Category:Digital watermarking
+Category:Copyright infringement of software	Category:Unauthorized video games
+Category:Copyright infringement of software	Category:Warez
+Category:Cryptanalytic devices	Category:Cryptanalytic software
+Category:Cryptanalytic software	Category:DVD rippers
+Category:Cryptanalytic software	Category:Digital rights management circumvention software
+Category:Cryptanalytic software	Category:Integer factorization algorithms
+Category:Cryptanalytic software	Category:Password cracking software
+Category:Crypto-anarchism	Category:Anonymity networks
+Category:Crypto-anarchism	Category:Crypto-anarchists
+Category:Crypto-anarchism	Category:Dark web
+Category:Crypto-anarchism	Category:Financial cryptography
+Category:Crypto-anarchists	Category:Cypherpunks
+Category:Cryptocurrencies	Category:Bitcoin
+Category:Cryptocurrencies	Category:Cryptocurrency stubs
+Category:Cryptocurrencies	Category:Cryptocurrency tumblers
+Category:Cryptocurrencies	Category:Ethereum
+Category:Cryptocurrencies	Category:People associated with cryptocurrency
+Category:Cryptocurrencies	Category:Ripple payment network
+Category:Cryptographers	Category:Cryptographer stubs
+Category:Cryptographers	Category:Cryptographers by nationality
+Category:Cryptographers	Category:International Association for Cryptologic Research fellows
+Category:Cryptographers	Category:Modern cryptographers
+Category:Cryptographers	Category:Pre-computer cryptographers
+Category:Cryptographers	Category:Recreational cryptographers
+Category:Cryptographers by nationality	Category:American cryptographers
+Category:Cryptographers by nationality	Category:Australian cryptographers
+Category:Cryptographers by nationality	Category:Austrian cryptographers
+Category:Cryptographers by nationality	Category:Belgian cryptographers
+Category:Cryptographers by nationality	Category:British cryptographers
+Category:Cryptographers by nationality	Category:Chinese cryptographers
+Category:Cryptographers by nationality	Category:Cypriot cryptographers
+Category:Cryptographers by nationality	Category:Dutch cryptographers
+Category:Cryptographers by nationality	Category:Egyptian cryptographers
+Category:Cryptographers by nationality	Category:French cryptographers
+Category:Cryptographers by nationality	Category:German cryptographers
+Category:Cryptographers by nationality	Category:Indian cryptographers
+Category:Cryptographers by nationality	Category:Irish cryptographers
+Category:Cryptographers by nationality	Category:Israeli cryptographers
+Category:Cryptographers by nationality	Category:Italian cryptographers
+Category:Cryptographers by nationality	Category:Norwegian cryptographers
+Category:Cryptographers by nationality	Category:Pakistani cryptographers
+Category:Cryptographers by nationality	Category:Polish cryptographers
+Category:Cryptographers by nationality	Category:Russian cryptographers
+Category:Cryptographers by nationality	Category:Spanish cryptographers
+Category:Cryptographers by nationality	Category:Swiss cryptographers
+Category:Cryptographers by nationality	Category:Ukrainian cryptographers
+Category:Cryptographic algorithms	Category:Advanced Access Content System
+Category:Cryptographic algorithms	Category:Asymmetric-key algorithms
+Category:Cryptographic algorithms	Category:Broken cryptography algorithms
+Category:Cryptographic algorithms	Category:Cryptanalytic algorithms
+Category:Cryptographic algorithms	Category:Cryptographic hash functions
+Category:Cryptographic algorithms	Category:Cryptographically secure pseudorandom number generators
+Category:Cryptographic algorithms	Category:Information-theoretically secure algorithms
+Category:Cryptographic algorithms	Category:Integer factorization algorithms
+Category:Cryptographic algorithms	Category:Primality tests
+Category:Cryptographic algorithms	Category:Symmetric-key algorithms
+Category:Cryptographic algorithms	Category:Type 1 encryption algorithms
+Category:Cryptographic algorithms	Category:Type 2 encryption algorithms
+Category:Cryptographic algorithms	Category:Type 3 encryption algorithms
+Category:Cryptographic attacks	Category:Attacks on public-key cryptosystems
+Category:Cryptographic attacks	Category:Chosen-plaintext attacks
+Category:Cryptographic attacks	Category:Cryptanalytic software
+Category:Cryptographic attacks	Category:Password cracking software
+Category:Cryptographic attacks	Category:Side-channel attacks
+Category:Cryptographic hardware	Category:Cryptanalytic devices
+Category:Cryptographic hardware	Category:Encryption device accessories
+Category:Cryptographic hardware	Category:Encryption devices
+Category:Cryptographic hardware	Category:Smart cards
+Category:Cryptographic hash functions	Category:Broken hash functions
+Category:Cryptographic hash functions	Category:Extendable-output functions
+Category:Cryptographic hash functions	Category:Key derivation functions
+Category:Cryptographic hash functions	Category:NIST hash function competition
+Category:Cryptographic primitives	Category:Computational hardness assumptions
+Category:Cryptographic primitives	Category:Random number generation
+Category:Cryptographic protocols	Category:Authentication protocols
+Category:Cryptographic protocols	Category:Broadcast encryption
+Category:Cryptographic protocols	Category:Computer access control protocols
+Category:Cryptographic protocols	Category:Key transport protocols
+Category:Cryptographic protocols	Category:Key-agreement protocols
+Category:Cryptographic protocols	Category:Multicast encryption
+Category:Cryptographic protocols	Category:Secure Shell
+Category:Cryptographic protocols	Category:Transport Layer Security
+Category:Cryptographic protocols	Category:Zero-knowledge protocols
+Category:Cryptographic software	Category:Anonymity networks
+Category:Cryptographic software	Category:Cryptanalytic software
+Category:Cryptographic software	Category:I2P
+Category:Cryptographic software	Category:OpenPGP
+Category:Cryptographic software	Category:SFTP clients
+Category:Cryptographic software	Category:Secure Shell
+Category:Cryptographic software	Category:Tor (anonymity network)
+Category:Cryptographic software	Category:Transport Layer Security implementation
+Category:Cryptography	Category:Applications of cryptography
+Category:Cryptography	Category:Classical cryptography
+Category:Cryptography	Category:Cryptographers
+Category:Cryptography	Category:Cryptographic algorithms
+Category:Cryptography	Category:Cryptographic attacks
+Category:Cryptography	Category:Cryptographic hardware
+Category:Cryptography	Category:Cryptographic primitives
+Category:Cryptography	Category:Cryptographic protocols
+Category:Cryptography	Category:Cryptographic software
+Category:Cryptography	Category:Cryptography contests
+Category:Cryptography	Category:Cryptography law
+Category:Cryptography	Category:Cryptography lists and comparisons
+Category:Cryptography	Category:Cryptography organizations
+Category:Cryptography	Category:Cryptography publications
+Category:Cryptography	Category:Cryptography standards
+Category:Cryptography	Category:Cryptography stubs
+Category:Cryptography	Category:Cryptologic education
+Category:Cryptography	Category:Disk encryption
+Category:Cryptography	Category:History of cryptography
+Category:Cryptography	Category:Key management
+Category:Cryptography	Category:Kleptography
+Category:Cryptography	Category:National Security Agency cryptography
+Category:Cryptography	Category:Post-quantum cryptography
+Category:Cryptography	Category:Public-key cryptography
+Category:Cryptography	Category:Quantum cryptography
+Category:Cryptography	Category:Ransomware
+Category:Cryptography	Category:Security engineering
+Category:Cryptography	Category:Steganography
+Category:Cryptography	Category:Symmetric-key cryptography
+Category:Cryptography	Category:Theory of cryptography
+Category:Cryptography books	Category:Cryptography in fiction
+Category:Cryptography companies	Category:Electronic signature providers
+Category:Cryptography contests	Category:RSA Factoring Challenge
+Category:Cryptography law	Category:Digital rights management
+Category:Cryptography law	Category:Export and import control of cryptography
+Category:Cryptography organizations	Category:Biuro Szyfrów
+Category:Cryptography organizations	Category:Certificate authorities
+Category:Cryptography organizations	Category:Communications Security Establishment Canada
+Category:Cryptography organizations	Category:Cryptography companies
+Category:Cryptography organizations	Category:Cryptography conferences
+Category:Cryptography organizations	Category:Cypherpunks
+Category:Cryptography organizations	Category:Government Communications Headquarters
+Category:Cryptography organizations	Category:National Security Agency
+Category:Cryptography organizations	Category:National cyber security centres
+Category:Cryptography organizations	Category:United States Army Signals Intelligence Service
+Category:Cryptography publications	Category:Cryptography books
+Category:Cryptography publications	Category:Cryptography conferences
+Category:Cryptography publications	Category:Cryptography in fiction
+Category:Cryptography publications	Category:Cryptography journals
+Category:Cryptography standards	Category:Digital rights management standards
+Category:Cryptography stubs	Category:Cryptographer stubs
+Category:Cyberattack gangs	Category:Anonymous (group)
+Category:Cyberattacks	Category:Cyberattack gangs
+Category:Cyberattacks	Category:Cyberattacks on banking industry
+Category:Cyberattacks	Category:Cyberattacks on energy sector
+Category:Cyberattacks	Category:Paradise Papers
+Category:Cyberbullying	Category:Anti-cyberbullying activists
+Category:Cyberbullying	Category:Fictional cyberbullies
+Category:Cyberbullying	Category:Fictional cyberbullying victims
+Category:Cyberbullying	Category:Victims of cyberbullying
+Category:Cybercrime	Category:Alt-right
+Category:Cybercrime	Category:Anti-forensic software
+Category:Cybercrime	Category:Botnets
+Category:Cybercrime	Category:Carding (fraud)
+Category:Cybercrime	Category:Cloud infrastructure attacks & failures
+Category:Cybercrime	Category:Computer criminals
+Category:Cybercrime	Category:Computer security
+Category:Cybercrime	Category:Computer security exploits
+Category:Cybercrime	Category:Copyright infringement of software
+Category:Cybercrime	Category:Crime forums
+Category:Cybercrime	Category:Cyberattacks
+Category:Cybercrime	Category:Cyberbullying
+Category:Cybercrime	Category:Cybercrime by country
+Category:Cybercrime	Category:Cybercrime in Canada
+Category:Cybercrime	Category:Cybercrime in the United Kingdom
+Category:Cybercrime	Category:Darknet markets
+Category:Cybercrime	Category:Digital forensics
+Category:Cybercrime	Category:Hacking (computer security)
+Category:Cybercrime	Category:Internet fraud
+Category:Cybercrime	Category:Internet vigilantism
+Category:Cybercrime	Category:Malware
+Category:Cybercrime	Category:Online child abuse
+Category:Cybercrime	Category:People convicted of cybercrime
+Category:Cybercrime	Category:Spamming
+Category:Cybercrime	Category:Types of cyberattacks
+Category:Cybercrime by country	Category:Cybercrime in Canada
+Category:Cybercrime by country	Category:Cybercrime in South Korea
+Category:Cybercrime by country	Category:Cybercrime in the United Kingdom
+Category:Czech Pirate Party	Category:Czech Pirate Party leadership elections
+Category:Czech Pirate Party	Category:Czech Pirate Party politicians
+Category:Dam failures	Category:Dam failures in the United States
+Category:Dam failures	Category:Tailings dam failures
+Category:Dark web	Category:Carding (fraud)
+Category:Dark web	Category:Darknet markets
+Category:Dark web	Category:I2P
+Category:Dark web	Category:Tor (anonymity network)
+Category:Dark web	Category:Tor hidden services
+Category:Darknet markets	Category:Defunct darknet markets
+Category:Data breaches	Category:Data breaches in the United States
+Category:Data breaches	Category:Email hacking
+Category:Data breaches	Category:Identity theft incidents
+Category:Data breaches	Category:Panama Papers
+Category:Data breaches	Category:Paradise Papers
+Category:Data erasure	Category:Data erasure software
+Category:Data erasure	Category:File deletion
+Category:Data laws	Category:Computer law
+Category:Data laws	Category:Data retention
+Category:Data laws	Category:Data security
+Category:Data laws	Category:Database law
+Category:Data laws	Category:Information privacy
+Category:Data security	Category:Backup
+Category:Data security	Category:Backup software
+Category:Data security	Category:Carding (fraud)
+Category:Data security	Category:Computer access control
+Category:Data security	Category:Data erasure
+Category:Data security	Category:Data protection
+Category:Data security	Category:Database security
+Category:Data security	Category:Electronic waste
+Category:Data security	Category:Fault tolerance
+Category:Data security	Category:Information governance
+Category:Data synchronization	Category:SyncML
+Category:Database security	Category:Data breaches
+Category:Debtors' prisons	Category:People imprisoned for debt
+Category:Defunct Tor hidden services	Category:Defunct darknet markets
+Category:Defunct prisons	Category:Defunct prisons in Argentina
+Category:Defunct prisons	Category:Defunct prisons in Australia
+Category:Defunct prisons	Category:Defunct prisons in Barbados
+Category:Defunct prisons	Category:Defunct prisons in Belarus
+Category:Defunct prisons	Category:Defunct prisons in Brazil
+Category:Defunct prisons	Category:Defunct prisons in Cambodia
+Category:Defunct prisons	Category:Defunct prisons in Canada
+Category:Defunct prisons	Category:Defunct prisons in Chile
+Category:Defunct prisons	Category:Defunct prisons in China
+Category:Defunct prisons	Category:Defunct prisons in Colombia
+Category:Defunct prisons	Category:Defunct prisons in Croatia
+Category:Defunct prisons	Category:Defunct prisons in Cuba
+Category:Defunct prisons	Category:Defunct prisons in Denmark
+Category:Defunct prisons	Category:Defunct prisons in France
+Category:Defunct prisons	Category:Defunct prisons in Germany
+Category:Defunct prisons	Category:Defunct prisons in India
+Category:Defunct prisons	Category:Defunct prisons in Indonesia
+Category:Defunct prisons	Category:Defunct prisons in Italy
+Category:Defunct prisons	Category:Defunct prisons in Japan
+Category:Defunct prisons	Category:Defunct prisons in Jordan
+Category:Defunct prisons	Category:Defunct prisons in Lebanon
+Category:Defunct prisons	Category:Defunct prisons in Malaysia
+Category:Defunct prisons	Category:Defunct prisons in Malta
+Category:Defunct prisons	Category:Defunct prisons in Mexico
+Category:Defunct prisons	Category:Defunct prisons in Morocco
+Category:Defunct prisons	Category:Defunct prisons in Nicaragua
+Category:Defunct prisons	Category:Defunct prisons in Pakistan
+Category:Defunct prisons	Category:Defunct prisons in Peru
+Category:Defunct prisons	Category:Defunct prisons in Poland
+Category:Defunct prisons	Category:Defunct prisons in Portugal
+Category:Defunct prisons	Category:Defunct prisons in Romania
+Category:Defunct prisons	Category:Defunct prisons in Russia
+Category:Defunct prisons	Category:Defunct prisons in Serbia
+Category:Defunct prisons	Category:Defunct prisons in Slovenia
+Category:Defunct prisons	Category:Defunct prisons in South Africa
+Category:Defunct prisons	Category:Defunct prisons in Spain
+Category:Defunct prisons	Category:Defunct prisons in Sweden
+Category:Defunct prisons	Category:Defunct prisons in Syria
+Category:Defunct prisons	Category:Defunct prisons in Taiwan
+Category:Defunct prisons	Category:Defunct prisons in Thailand
+Category:Defunct prisons	Category:Defunct prisons in Turkey
+Category:Defunct prisons	Category:Defunct prisons in Ukraine
+Category:Defunct prisons	Category:Defunct prisons in Venezuela
+Category:Defunct prisons	Category:Defunct prisons in Vietnam
+Category:Defunct prisons	Category:Defunct prisons in the Channel Islands
+Category:Defunct prisons	Category:Defunct prisons in the Czech Republic
+Category:Defunct prisons	Category:Defunct prisons in the Isle of Man
+Category:Defunct prisons	Category:Defunct prisons in the Netherlands
+Category:Defunct prisons	Category:Defunct prisons in the Philippines
+Category:Defunct prisons	Category:Defunct prisons in the Republic of Ireland
+Category:Defunct prisons	Category:Defunct prisons in the United Kingdom
+Category:Defunct prisons	Category:Defunct prisons in the United States
+Category:Defunct prisons	Category:Demolished prisons
+Category:Defunct prisons	Category:Prison museums
+Category:Denial-of-service attacks	Category:Algorithmic complexity attacks
+Category:Digimon	Category:Digimon anime and manga
+Category:Digimon	Category:Digimon lists
+Category:Digimon	Category:Digimon media
+Category:Digimon	Category:Digimon video games
+Category:Digital Millennium Copyright Act	Category:Digital Millennium Copyright Act case law
+Category:Digital Millennium Copyright Act	Category:Digital Millennium Copyright Act takedown incidents
+Category:Digital Millennium Copyright Act takedown incidents	Category:Digital Millennium Copyright Act case law
+Category:Digital currencies	Category:Cryptocurrencies
+Category:Digital currencies	Category:Digital currency exchange
+Category:Digital currencies	Category:Digital gold currencies
+Category:Digital currencies	Category:Virtual economies
+Category:Digital forensics	Category:Anti-forensic software
+Category:Digital forensics	Category:Computer forensics
+Category:Digital forensics	Category:Digital forensics certification
+Category:Digital forensics	Category:Digital forensics organisations
+Category:Digital forensics	Category:Digital forensics people
+Category:Digital forensics	Category:Digital forensics software
+Category:Digital rights management	Category:Copy protection
+Category:Digital rights management	Category:Digital rights management circumvention software
+Category:Digital rights management	Category:Digital rights management standards
+Category:Digital rights management	Category:Digital rights management systems
+Category:Digital rights management	Category:Digital watermarking
+Category:Digital rights management	Category:Hardware restrictions
+Category:Digital rights management circumvention software	Category:DVD rippers
+Category:Digital rights management standards	Category:Advanced Access Content System
+Category:Digital rights management systems	Category:Compact Disc and DVD copy protection
+Category:Digital rights management systems	Category:Conditional-access television broadcasting
+Category:Digital rights management systems	Category:DRM for MacOS
+Category:Digital rights management systems	Category:DRM for Windows
+Category:Digital signature	Category:Digital signature schemes
+Category:Digital signature schemes	Category:Digital Signature Standard
+Category:Directory services	Category:Active Directory
+Category:Disaster recovery	Category:Backup
+Category:Disclosure	Category:Freedom of information legislation
+Category:Disk images	Category:Disk cloning
+Category:Disk images	Category:Disk image editors
+Category:Disk images	Category:Disk image emulators
+Category:Disk images	Category:Slipstream (computing)
+Category:Disk images	Category:Storage virtualization
+Category:Dot-com bubble	Category:2000 initial public offerings
+Category:DreamWorks Classics	Category:Big Idea Entertainment
+Category:DreamWorks Classics	Category:Casper the Friendly Ghost
+Category:DreamWorks Classics	Category:Felix the Cat
+Category:DreamWorks Classics	Category:Filmation
+Category:DreamWorks Classics	Category:Harvey Comics
+Category:DreamWorks Classics	Category:Jay Ward Productions
+Category:DreamWorks Classics	Category:Mill Creek Entertainment
+Category:DreamWorks Classics	Category:Richie Rich (comics)
+Category:DreamWorks Classics	Category:Total Television
+Category:DreamWorks Classics	Category:UPA (animation studio)
+Category:Driving licences	Category:Driving licences by country
+Category:E-commerce	Category:Commerce websites
+Category:E-commerce	Category:Companies' terms of service
+Category:E-commerce	Category:Computer security
+Category:E-commerce	Category:Cryptocurrencies
+Category:E-commerce	Category:Digital currencies
+Category:E-commerce	Category:Dot-com bubble
+Category:E-commerce	Category:E-commerce by country
+Category:E-commerce	Category:EDI
+Category:E-commerce	Category:Electronic funds transfer
+Category:E-commerce	Category:Electronic trading systems
+Category:E-commerce	Category:Financial cryptography
+Category:E-commerce	Category:Free e-commerce software
+Category:E-commerce	Category:Internet advertising methods
+Category:E-commerce	Category:Merchant services
+Category:E-commerce	Category:Micropayment
+Category:E-commerce	Category:New economy
+Category:E-commerce	Category:Online banking
+Category:E-commerce	Category:Online companies
+Category:E-commerce	Category:Online content distribution
+Category:E-commerce	Category:Online payments
+Category:E-commerce	Category:PayPal
+Category:E-commerce	Category:Point of sale companies
+Category:E-commerce	Category:Recommender systems
+Category:E-commerce	Category:Reputation management
+Category:E-commerce	Category:Subscription services
+Category:E-commerce	Category:Terms of service
+Category:E-commerce	Category:Transport Layer Security
+Category:E-commerce	Category:Websites utilizing paywalls
+Category:E-commerce by country	Category:E-commerce in Bangladesh
+Category:E-commerce by country	Category:E-commerce in India
+Category:E-commerce by country	Category:E-commerce in Japan
+Category:EDI	Category:EDI software companies
+Category:Edward Snowden	Category:Intelligence agency programmes revealed by Edward Snowden
+Category:Electronic Frontier Foundation	Category:Electronic Frontier Foundation litigation
+Category:Electronic funds transfer	Category:Cryptocurrencies
+Category:Electronic trading systems	Category:Algorithmic trading
+Category:Electronic trading systems	Category:Electronic trading platforms
+Category:Electronic waste	Category:Computer recycling
+Category:Electronic waste	Category:Electronic waste by country
+Category:Electronic waste	Category:Electronic waste in Africa
+Category:Electronic waste	Category:Electronic waste in Asia
+Category:Electronic waste	Category:Electronic waste in Europe
+Category:Electronic waste by country	Category:Electronic waste in China
+Category:Electronic waste by country	Category:Electronic waste in Ghana
+Category:Electronic waste by country	Category:Electronic waste in India
+Category:Electronic waste by country	Category:Electronic waste in Japan
+Category:Electronic waste by country	Category:Electronic waste in New Zealand
+Category:Electronic waste by country	Category:Electronic waste in Nigeria
+Category:Electronic waste by country	Category:Electronic waste in the United Kingdom
+Category:Electronic waste by country	Category:Electronic waste in the United States
+Category:Electronic waste in Africa	Category:Electronic waste in Ghana
+Category:Electronic waste in Africa	Category:Electronic waste in Nigeria
+Category:Electronic waste in Asia	Category:Electronic waste in China
+Category:Electronic waste in Asia	Category:Electronic waste in India
+Category:Electronic waste in Asia	Category:Electronic waste in Japan
+Category:Electronic waste in Europe	Category:Electronic waste in the United Kingdom
+Category:Email authentication	Category:Anti-spam
+Category:Email authentication	Category:OpenPGP
+Category:Email hacking	Category:Panama Papers
+Category:Encryption devices	Category:National Security Agency encryption devices
+Category:Encryption devices	Category:Rotor machines
+Category:Engineering failures	Category:Airliner accidents and incidents involving engineering failures
+Category:Engineering failures	Category:Bridge disasters caused by engineering error
+Category:Engineering failures	Category:Building collapses
+Category:Engineering failures	Category:Chemical disasters
+Category:Engineering failures	Category:Collapsed oil platforms
+Category:Engineering failures	Category:Computer security exploits
+Category:Engineering failures	Category:Construction accidents
+Category:Engineering failures	Category:Dam failures
+Category:Engineering failures	Category:Engine problems
+Category:Engineering failures	Category:Mechanical failure
+Category:Engineering failures	Category:Space accidents and incidents
+Category:English privacy law	Category:English privacy case law
+Category:Error detection and correction	Category:Capacity-achieving codes
+Category:Error detection and correction	Category:Capacity-approaching codes
+Category:Error detection and correction	Category:Checksum algorithms
+Category:Error detection and correction	Category:Cyclic redundancy checks
+Category:Error detection and correction	Category:Hash functions
+Category:Error detection and correction	Category:Message authentication codes
+Category:Face recognition	Category:Facial expressions
+Category:Face recognition	Category:Facial recognition software
+Category:Fault tolerance	Category:Error detection and correction
+Category:Fault tolerance	Category:Fault-tolerant computer systems
+Category:Fault tolerance	Category:Uninterruptible power supply
+Category:Fault-tolerant computer systems	Category:Backup
+Category:Fault-tolerant computer systems	Category:Data synchronization
+Category:Fault-tolerant computer systems	Category:Error detection and correction
+Category:Fault-tolerant computer systems	Category:High-availability cluster computing
+Category:Fault-tolerant computer systems	Category:RAID
+Category:Fault-tolerant computer systems	Category:Uninterruptible power supply
+Category:Fictional characters without a name	Category:Doctor Who Doctors
+Category:Fictional computer viruses	Category:Virus hoaxes
+Category:Fictional hackers	Category:Doctor Who Doctors
+Category:Fictional hackers	Category:Fictional technopaths
+Category:Fictional languages	Category:Books written in fictional dialects
+Category:Fictional languages	Category:Fictional alien languages
+Category:Fictional languages	Category:Fictional-language films
+Category:Fictional languages	Category:Middle-earth languages
+Category:Financial cryptography	Category:Cryptocurrencies
+Category:Financial cryptography	Category:Digital gold currencies
+Category:Fingerprinting algorithms	Category:Acoustic fingerprinting
+Category:Firewall software	Category:Gateway/routing/firewall distribution
+Category:Free security software	Category:Free antivirus software
+Category:Free security software	Category:Free password managers
+Category:Free security software	Category:Free security software programmed in C
+Category:Freedom of information legislation	Category:Freedom of information legislation in Canada
+Category:Freedom of information legislation	Category:Freedom of information legislation in India
+Category:Freedom of information legislation	Category:Freedom of information legislation in the United Kingdom
+Category:Freedom of information legislation	Category:Freedom of information legislation in the United States
+Category:Freedom of information legislation in India	Category:Right to Information in India
+Category:Freedom of information legislation in the United States	Category:Freedom of Information Act (United States)
+Category:French wine AOCs	Category:Alsace wine AOCs
+Category:French wine AOCs	Category:Bordeaux AOCs
+Category:French wine AOCs	Category:Bugey wine
+Category:French wine AOCs	Category:Burgundy (historical region) AOCs
+Category:French wine AOCs	Category:Champagne wine AOCs
+Category:French wine AOCs	Category:Charente AOCs
+Category:French wine AOCs	Category:Corsica wine AOCs
+Category:French wine AOCs	Category:Jura wine AOCs
+Category:French wine AOCs	Category:Languedoc-Roussillon wine AOCs
+Category:French wine AOCs	Category:Loire AOCs
+Category:French wine AOCs	Category:Provence wine AOCs
+Category:French wine AOCs	Category:Rhône wine AOCs
+Category:French wine AOCs	Category:Roussillon wine AOCs
+Category:French wine AOCs	Category:Savoie wine AOCs
+Category:French wine AOCs	Category:South West France AOCs
+Category:Geocodes	Category:Country codes
+Category:Geocodes	Category:Country subdivision codes
+Category:Geocodes	Category:FIPS 10
+Category:Geocodes	Category:Geographic coordinate lists
+Category:Geocodes	Category:Geographic object identifiers
+Category:Geocodes	Category:Geolocation
+Category:Geocodes	Category:ISO 3166
+Category:Geocodes	Category:Lists of airports by IATA code
+Category:Geocodes	Category:Lists of airports by ICAO code
+Category:Geocodes	Category:Lists of postal codes
+Category:Geocodes	Category:Nomenclature of Territorial Units for Statistics
+Category:Geocodes	Category:Telephone numbers by country
+Category:Geocodes	Category:UN/LOCODE
+Category:Geocodes	Category:United Nations geoscheme
+Category:Geolocation	Category:Geosocial networking
+Category:Geolocation	Category:Indoor positioning system
+Category:Geolocation	Category:Location-based software
+Category:Geolocation	Category:Tracking
+Category:Geosocial networking	Category:Location-based games
+Category:Ghost in the Shell	Category:Ghost in the Shell anime and manga
+Category:Ghost in the Shell	Category:Ghost in the Shell characters
+Category:Ghost in the Shell	Category:Ghost in the Shell films
+Category:Ghost in the Shell	Category:Ghost in the Shell images
+Category:Ghost in the Shell	Category:Ghost in the Shell video games
+Category:Government Communications Headquarters	Category:Government Communications Headquarters buildings and structures
+Category:Government Communications Headquarters	Category:Government Communications Headquarters operations
+Category:Government Communications Headquarters	Category:Government Communications Headquarters people
+Category:Government Communications Headquarters	Category:UKUSA listening stations
+Category:Government Communications Headquarters people	Category:Directors of the Government Communications Headquarters
+Category:Government Communications Headquarters people	Category:Government Communications Headquarters cryptographers
+Category:Graphology	Category:Graphologists
+Category:Hacker groups	Category:Advanced persistent threat
+Category:Hacker groups	Category:Anonymous (group)
+Category:Hacker groups	Category:Cult of the Dead Cow
+Category:Hacker groups	Category:Fictional hacker groups
+Category:Hacker groups	Category:L0pht
+Category:Hacker groups	Category:Legion of Doom (hacking)
+Category:Hacker groups	Category:Masters of Deception
+Category:Hacker magazines	Category:Cult of the Dead Cow
+Category:Hacker magazines	Category:Legion of Doom (hacking)
+Category:Hacking (computer security)	Category:Advanced persistent threat
+Category:Hacking (computer security)	Category:Books about computer hacking
+Category:Hacking (computer security)	Category:Email hacking
+Category:Hacking (computer security)	Category:Hacker conventions
+Category:Hacking (computer security)	Category:Hacker groups
+Category:Hacking (computer security)	Category:Hacker magazines
+Category:Hacking (computer security)	Category:Hacking by year
+Category:Hacking (computer security)	Category:Hacking of Yahoo!
+Category:Hacking (computer security)	Category:Hacking video games
+Category:Hacking (computer security)	Category:Phreaking
+Category:Hacking (computer security)	Category:White hat (computer security)
+Category:Hacking by year	Category:Hacking in the 1980s
+Category:Hacking by year	Category:Hacking in the 1990s
+Category:Hacking by year	Category:Hacking in the 2000s
+Category:Hacking by year	Category:Hacking in the 2010s
+Category:Hardware restrictions	Category:Digital Millennium Copyright Act
+Category:Hardware restrictions	Category:Homebrew software
+Category:Hardware restrictions	Category:IOS jailbreaking
+Category:Hash functions	Category:Cryptographic hash functions
+Category:Hash functions	Category:Cyclic redundancy checks
+Category:Hash functions	Category:Hash function (non-cryptographic)
+Category:Heraldry	Category:Armorials
+Category:Heraldry	Category:Coats of arms
+Category:Heraldry	Category:Ecclesiastical heraldry
+Category:Heraldry	Category:Flags by design
+Category:Heraldry	Category:Headgear in heraldry
+Category:Heraldry	Category:Heraldic artists
+Category:Heraldry	Category:Heraldic authorities
+Category:Heraldry	Category:Heraldic badges
+Category:Heraldry	Category:Heraldic charges
+Category:Heraldry	Category:Heraldic sites
+Category:Heraldry	Category:Heraldic societies
+Category:Heraldry	Category:Heraldic tinctures
+Category:Heraldry	Category:Heraldists
+Category:Heraldry	Category:Heraldry and law
+Category:Heraldry	Category:Heraldry by country
+Category:Heraldry	Category:Heraldry in fiction
+Category:Heraldry	Category:Heraldry stubs
+Category:Heraldry	Category:Literature on heraldry
+Category:Heraldry	Category:Military heraldry
+Category:Heraldry	Category:Officers of arms
+Category:Heraldry	Category:Offices of arms
+Category:Heraldry	Category:Orders, decorations, and medals
+Category:Heraldry	Category:Seals (insignia)
+Category:Heraldry	Category:Totem poles
+Category:Heraldry	Category:Vexillology
+Category:History of cryptography	Category:Biuro Szyfrów
+Category:History of cryptography	Category:Bletchley Park
+Category:History of cryptography	Category:Code talkers
+Category:History of cryptography	Category:Rotor machines
+Category:History of cryptography	Category:Signals intelligence of World War I
+Category:History of cryptography	Category:Signals intelligence of World War II
+Category:History of cryptography	Category:Undeciphered historical codes and ciphers
+Category:History of cryptography	Category:Venona project
+Category:Homebrew software	Category:Atari 2600 homebrew games
+Category:Homebrew software	Category:Nintendo DS homebrew
+Category:Homebrew software	Category:Video game console clones
+Category:IT risk management	Category:Disaster recovery
+Category:IT risk management	Category:Information assurance standards
+Category:IT risk management	Category:Information technology audit
+Category:IT risk management	Category:Security compliance
+Category:Identification	Category:Animal identification
+Category:Identification	Category:Anonymity
+Category:Identification	Category:Automatic identification and data capture
+Category:Identification	Category:Biometrics
+Category:Identification	Category:Brand management
+Category:Identification	Category:Fingerprinting algorithms
+Category:Identification	Category:Identifiers
+Category:Identification	Category:Personal identification
+Category:Identifiers	Category:Bank codes
+Category:Identifiers	Category:Barcodes
+Category:Identifiers	Category:Call signs
+Category:Identifiers	Category:Company identification numbers
+Category:Identifiers	Category:Geocodes
+Category:Identifiers	Category:International Standard Book Number
+Category:Identifiers	Category:Names
+Category:Identifiers	Category:Naming in sports
+Category:Identifiers	Category:National identification numbers
+Category:Identifiers	Category:Network addressing
+Category:Identifiers	Category:Numbering in sports
+Category:Identifiers	Category:Pharmacological classification systems
+Category:Identifiers	Category:Security identifier types
+Category:Identifiers	Category:Serial numbers
+Category:Identifiers	Category:Telephone numbers
+Category:Identifiers	Category:URI schemes
+Category:Identifiers	Category:Unique identifiers
+Category:Identifiers	Category:Vehicle registration plates
+Category:Identitarian movement	Category:Identitarian movement in France
+Category:Identity documents	Category:Business cards
+Category:Identity documents	Category:Consular identification cards
+Category:Identity documents	Category:Driving licences
+Category:Identity documents	Category:Health insurance card
+Category:Identity documents	Category:Identity documents by country
+Category:Identity documents	Category:Identity documents of country subdivisions
+Category:Identity documents	Category:Identity theft
+Category:Identity documents	Category:Immigration documents
+Category:Identity documents	Category:International travel documents
+Category:Identity documents	Category:National identity cards
+Category:Identity documents	Category:Signature
+Category:Identity documents	Category:Smart cards
+Category:Identity documents by country	Category:Identity documents of Albania
+Category:Identity documents by country	Category:Identity documents of Australia
+Category:Identity documents by country	Category:Identity documents of Bangladesh
+Category:Identity documents by country	Category:Identity documents of Germany
+Category:Identity documents by country	Category:Identity documents of India
+Category:Identity documents by country	Category:Identity documents of Lithuania
+Category:Identity documents by country	Category:Identity documents of Poland
+Category:Identity documents by country	Category:Identity documents of Slovenia
+Category:Identity documents by country	Category:Identity documents of the Philippines
+Category:Identity documents by country	Category:Identity documents of the Soviet Union
+Category:Identity management	Category:Access control
+Category:Identity management	Category:Federated identity
+Category:Identity management	Category:Identity management initiative
+Category:Identity management	Category:Identity management systems
+Category:Identity theft	Category:Carding (fraud)
+Category:Identity theft	Category:Films about identity theft
+Category:Identity theft	Category:Identity theft incidents
+Category:Identity theft	Category:Identity theft law
+Category:Identity theft	Category:Identity theft reporters
+Category:Identity theft	Category:Identity theft victims
+Category:Images of official seals	Category:Seals of places in the Philippines
+Category:Images of official seals	Category:Seals of places in the United States
+Category:Immigration detention centers and prisons	Category:Guantanamo Bay detention camp
+Category:Immigration detention centers and prisons	Category:Immigration detention centers and prisons in Europe
+Category:Immigration detention centers and prisons	Category:Immigration detention centers and prisons in the United States
+Category:Immigration detention centers and prisons	Category:Immigration detention centres and prisons in Australia
+Category:Immigration detention centers and prisons	Category:Lists of immigration detention facilities
+Category:Information assurance standards	Category:Computer security standards
+Category:Information governance	Category:Computer security
+Category:Information governance	Category:Data laws
+Category:Information governance	Category:Data protection authorities
+Category:Information governance	Category:Information architecture
+Category:Information privacy	Category:Disclosure
+Category:Information privacy	Category:Freedom of information legislation
+Category:Information privacy	Category:Internet privacy
+Category:Information privacy	Category:Medical privacy
+Category:Information privacy	Category:Privacy law
+Category:Information privacy	Category:Privacy organizations
+Category:Information published by WikiLeaks	Category:United States diplomatic cables leak
+Category:International Standard Book Number	Category:ISBN agencies
+Category:International travel documents	Category:Consular identification cards
+Category:International travel documents	Category:Expedited border crossing schemes
+Category:International travel documents	Category:Hong Kong travel documents
+Category:International travel documents	Category:National identity cards
+Category:International travel documents	Category:Passports
+Category:International travel documents	Category:Refugee travel documents
+Category:International travel documents	Category:Schengen Area
+Category:International travel documents	Category:Travel documents issued by international organizations
+Category:International travel documents	Category:Visas
+Category:Internet advertising methods	Category:Contextual advertising
+Category:Internet advertising methods	Category:Retargeting
+Category:Internet fraud	Category:Carding (fraud)
+Category:Internet fraud	Category:Fake news
+Category:Internet fraud	Category:Plagiarism detectors
+Category:Internet fraud	Category:Social engineering (computer security)
+Category:Internet fraud	Category:Spamming
+Category:Internet fraud	Category:Web security exploits
+Category:Internet privacy	Category:Alternative Internet DNS services
+Category:Internet privacy	Category:Anonymity networks
+Category:Internet privacy	Category:Crypto-anarchism
+Category:Internet privacy	Category:Email hacking
+Category:Internet privacy	Category:Geolocation
+Category:Internet privacy	Category:Internet privacy case law
+Category:Internet privacy	Category:Internet privacy legislation
+Category:Internet privacy	Category:Internet privacy organizations
+Category:Internet privacy	Category:Internet privacy software
+Category:Internet privacy	Category:Privacy software
+Category:Internet privacy	Category:Virtual private networks
+Category:Internet privacy organizations	Category:Data protection authorities
+Category:Internet privacy organizations	Category:Electronic Frontier Foundation
+Category:Internet privacy organizations	Category:Pirate parties
+Category:Internet privacy software	Category:Anonymous social media
+Category:Internet privacy software	Category:I2P
+Category:Internet privacy software	Category:Tor (anonymity network)
+Category:Internet security	Category:Cyberattacks
+Category:Internet security	Category:Transport Layer Security
+Category:Internet security	Category:Types of cyberattacks
+Category:Internet security	Category:Web security exploits
+Category:Internet vigilantism	Category:Anonymous (group)
+Category:Internment camps	Category:Armenian Genocide extermination centers
+Category:Internment camps	Category:Camps of the Gulag
+Category:Internment camps	Category:Internment camps by country
+Category:Internment camps	Category:Internment camps by historical period
+Category:Internment camps	Category:Internment camps by war
+Category:Internment camps	Category:Italian concentration camps
+Category:Internment camps	Category:Nazi concentration camps
+Category:Internment camps	Category:Prisoner-of-war camps
+Category:Internment camps	Category:World War II concentration camps
+Category:Juvenile detention centers	Category:Industrial schools in the Republic of Ireland
+Category:Juvenile detention centers	Category:Juvenile detention centers in the United States
+Category:Juvenile detention centers	Category:Juvenile detention centres in Australia
+Category:Juvenile detention centers	Category:Juvenile prisons in England
+Category:Juvenile detention centers	Category:Young Offender Institutions
+Category:Key management	Category:Broadcast encryption
+Category:Key management	Category:Digital signature
+Category:Key management	Category:Key derivation functions
+Category:Key management	Category:Key pre-distribution
+Category:Key management	Category:Key transport protocols
+Category:Key management	Category:Key-agreement protocols
+Category:Key management	Category:Multicast encryption
+Category:Key management	Category:Public key infrastructure
+Category:Key management	Category:Secret sharing
+Category:Key pre-distribution	Category:Secret sharing
+Category:Legal professional privilege	Category:United States attorney–client privilege case law
+Category:Linux malware	Category:Linux viruses
+Category:Linux security software	Category:Linux kernel live patching
+Category:Lists of prisons	Category:Lists of prisoner of war camps
+Category:Lists of prisons	Category:Lists of prisons and jails in the United States
+Category:Lists of prisons	Category:Lists of prisons in China
+Category:Location-based software	Category:GPS navigation software
+Category:Location-based software	Category:Geosocial networking
+Category:Location-based software	Category:Location-based games
+Category:Locks (security device)	Category:Locking knives
+Category:Locks (security device)	Category:Locksmithing museums
+Category:Locksmithing	Category:Coats of arms with keys
+Category:Locksmithing	Category:Lock manufacturers
+Category:Locksmithing	Category:Locks (security device)
+Category:Locksmithing	Category:Locksmithing museums
+Category:Locksmithing	Category:Locksmithing organizations
+Category:Locksmithing	Category:Locksmiths
+Category:Malware	Category:Malware by platform
+Category:Malware	Category:Malware by type
+Category:Malware	Category:Malware in fiction
+Category:Malware	Category:Malware stubs
+Category:Malware	Category:Types of malware
+Category:Malware by platform	Category:Linux malware
+Category:Malware by platform	Category:MacOS malware
+Category:Malware by platform	Category:Mobile malware
+Category:Malware by platform	Category:Windows malware
+Category:Malware by type	Category:Adware
+Category:Malware by type	Category:Botnets
+Category:Malware by type	Category:Bots
+Category:Malware by type	Category:Computer surveillance
+Category:Malware by type	Category:Computer viruses
+Category:Malware by type	Category:Computer worms
+Category:Malware by type	Category:IoT malware
+Category:Malware by type	Category:Malware toolkits
+Category:Malware by type	Category:Rogue software
+Category:Malware by type	Category:Rootkits
+Category:Malware by type	Category:Scareware
+Category:Malware by type	Category:Spyware
+Category:Malware by type	Category:Trojan horses
+Category:Malware in fiction	Category:Digimon
+Category:Malware in fiction	Category:Fictional computer viruses
+Category:Malware in fiction	Category:Ghost in the Shell
+Category:Malware in fiction	Category:The Matrix (franchise)
+Category:Malware in fiction	Category:Tom Clancy's Net Force
+Category:Mass digitization	Category:Google Books
+Category:Mechanical failure	Category:Airliner accidents and incidents caused by mechanical failure
+Category:Mechanical failure	Category:Airliner accidents and incidents involving belly landings
+Category:Mechanical failure	Category:Building defects
+Category:Mechanical failure	Category:Mechanical failure modes
+Category:Medical privacy	Category:Medical privacy legislation
+Category:Merchandise	Category:Disney merchandise
+Category:Merchandise	Category:Garfield media and merchandise
+Category:Merchandise	Category:Merchandising
+Category:Merchandise	Category:Spider-Man merchandise
+Category:Merchandise	Category:SpongeBob SquarePants media and merchandise
+Category:Merchandise	Category:Thomas & Friends merchandise
+Category:Micropayment	Category:Ripple payment network
+Category:Military prisons	Category:Military prisons in the United States
+Category:Military prisons	Category:Prisoner-of-war camps
+Category:Mobile malware	Category:Android malware
+Category:Mobile malware	Category:IOS malware
+Category:Mobile security	Category:Mobile malware
+Category:Modern cryptographers	Category:Cipher-machine cryptographers
+Category:Modern cryptographers	Category:Cryptographers by nationality
+Category:Modern cryptographers	Category:Government Communications Headquarters cryptographers
+Category:Modern cryptographers	Category:People associated with cryptocurrency
+Category:Modern cryptographers	Category:Public-key cryptographers
+Category:Names	Category:Anonymity
+Category:Names	Category:Brands
+Category:Names	Category:Classification
+Category:Names	Category:Code names
+Category:Names	Category:Common names
+Category:Names	Category:Epithets
+Category:Names	Category:Eponyms
+Category:Names	Category:Filenames
+Category:Names	Category:Glottonyms
+Category:Names	Category:Human names
+Category:Names	Category:Individual gemstones
+Category:Names	Category:Lists by name
+Category:Names	Category:Lists of names
+Category:Names	Category:Literary archetypes by name
+Category:Names	Category:Name days
+Category:Names	Category:Name stubs
+Category:Names	Category:Name suffixes
+Category:Names	Category:Names by language
+Category:Names	Category:Names of God
+Category:Names	Category:Naming controversies
+Category:Names	Category:Naming conventions
+Category:Names	Category:Nicknames
+Category:Names	Category:Pejoratives
+Category:Names	Category:Place names
+Category:Names	Category:Placeholder names
+Category:Names	Category:Redirects from birth names
+Category:Names	Category:Redirects from married names
+Category:Names	Category:Redirects from names with title
+Category:Names	Category:Redirects from personal names
+Category:Names	Category:Redirects to names with title
+Category:Names	Category:Ship names
+Category:Names	Category:Signature
+Category:Names	Category:Tank names
+Category:National Security Agency	Category:National Security Agency cryptography
+Category:National Security Agency	Category:National Security Agency encryption devices
+Category:National Security Agency	Category:National Security Agency facilities
+Category:National Security Agency	Category:National Security Agency operations
+Category:National Security Agency	Category:National Security Agency people
+Category:National Security Agency	Category:UKUSA listening stations
+Category:National Security Agency	Category:Venona project
+Category:National Security Agency	Category:Works about the National Security Agency
+Category:National Security Agency cryptography	Category:Data Encryption Standard
+Category:National Security Agency cryptography	Category:Type 1 encryption algorithms
+Category:National Security Agency cryptography	Category:Type 2 encryption algorithms
+Category:National Security Agency cryptography	Category:Type 3 encryption algorithms
+Category:National Security Agency people	Category:Analysts of the National Security Agency
+Category:National Security Agency people	Category:Deputy Directors of the National Security Agency
+Category:National Security Agency people	Category:Directors of the National Security Agency
+Category:National Security Agency people	Category:Edward Snowden
+Category:National Security Agency people	Category:Fictional National Security Agency personnel
+Category:National Security Agency people	Category:National Security Agency cryptographers
+Category:National cyber security centres	Category:United States Cyber Command
+Category:National identification numbers	Category:INSEE
+Category:National identification numbers	Category:National identity cards
+Category:National identification numbers	Category:Taxpayer identification numbers
+Category:National identity cards	Category:National identity cards by country
+Category:Near Field Communications	Category:Video games that use figurines
+Category:Network addressing	Category:Domain name system
+Category:Network addressing	Category:IP addresses
+Category:Network addressing	Category:Network address translation
+Category:Network addressing	Category:URI schemes
+Category:Network analyzers	Category:Deep packet capture
+Category:Network analyzers	Category:Deep packet inspection
+Category:Network analyzers	Category:Packet analyzer software for Linux
+Category:Network analyzers	Category:Port scanners
+Category:Network analyzers	Category:Web analytics
+Category:Numbering in sports	Category:Lists of retired numbers
+Category:Numbering in sports	Category:Sportspeople with retired numbers
+Category:Online banking	Category:Online banks
+Category:Online companies	Category:Defunct online companies
+Category:Online companies	Category:Dot-com bubble
+Category:Online companies	Category:Online banks
+Category:Online companies	Category:Online companies by country
+Category:Online companies	Category:Online dating services
+Category:Online companies	Category:Online gambling companies
+Category:Online companies	Category:Online insurance companies
+Category:Online companies	Category:Online legal services
+Category:Online companies	Category:Online nonprofit organizations
+Category:Online companies	Category:Online publishing companies
+Category:Online companies	Category:Online real estate companies
+Category:Online companies	Category:Online retailers
+Category:Online companies	Category:Online trading
+Category:Online companies	Category:Online travel agencies
+Category:Online companies	Category:Providers of services to on-line companies
+Category:Online companies	Category:Shopping delivery services
+Category:Online content distribution	Category:ALL.Net games
+Category:Online content distribution	Category:Digital libraries
+Category:Online content distribution	Category:E-book sources
+Category:Online content distribution	Category:File sharing services
+Category:Online content distribution	Category:Internet television streaming services
+Category:Online content distribution	Category:NESiCAxLive games
+Category:Online content distribution	Category:Online music stores
+Category:Online content distribution	Category:Online-only retailers of video games
+Category:Online content distribution	Category:Software distribution platforms
+Category:Online content distribution	Category:Streaming music services
+Category:Online content distribution	Category:Video game distribution
+Category:Online content distribution	Category:Video hosting
+Category:Online content distribution	Category:Video on demand services
+Category:Operating system security	Category:MacOS security technology
+Category:Operating system security	Category:Microsoft Windows security technology
+Category:Packet analyzer software for Linux	Category:Packet analyzer software that uses GTK+
+Category:Panama Papers	Category:People named in the Panama Papers
+Category:Password authentication	Category:Key derivation functions
+Category:Password authentication	Category:Password cracking software
+Category:Password authentication	Category:Password managers
+Category:Password managers	Category:Free password managers
+Category:Patch utilities	Category:Slipstream (computing)
+Category:PayPal	Category:PayPal people
+Category:People associated with computer security	Category:Chief executives of computer security organizations
+Category:People associated with computer security	Category:Computer criminals
+Category:People associated with computer security	Category:Computer security specialists
+Category:People associated with cryptocurrency	Category:People associated with Bitcoin
+Category:People associated with cryptocurrency	Category:People associated with Ethereum
+Category:Perimeter security	Category:Access control
+Category:Perimeter security	Category:Guardhouses
+Category:Personal identification	Category:Biometrics
+Category:Personal identification	Category:Heraldry
+Category:Personal identification	Category:Identity documents
+Category:Personal identification	Category:Monograms
+Category:Personal identification	Category:National identification numbers
+Category:Personal identification	Category:Seals (insignia)
+Category:Personal identification	Category:Signature
+Category:Personal identification	Category:Vital statistics
+Category:Pharmacological classification systems	Category:ATC codes
+Category:Phreaking	Category:2600: The Hacker Quarterly
+Category:Phreaking	Category:Phreaking boxes
+Category:Pirate Party (Spain)	Category:Pirate Party (Spain) politicians
+Category:Pirate Party Germany	Category:Pirate Party Germany politicians
+Category:Pirate Party Switzerland	Category:Pirate Party Switzerland politicians
+Category:Pirate Party of Austria	Category:Pirate Party of Austria politicians
+Category:Pirate Party of Luxembourg	Category:Pirate Party of Luxembourg politicians
+Category:Pirate Party of Sweden	Category:Pirate Party of Sweden politicians
+Category:Pirate Party of the Netherlands	Category:Pirate Party of the Netherlands politicians
+Category:Pirate broadcasting	Category:Pirate radio
+Category:Pirate broadcasting	Category:Pirate television
+Category:Pirate parties	Category:Czech Pirate Party
+Category:Pirate parties	Category:Pirate Party (Spain)
+Category:Pirate parties	Category:Pirate Party Germany
+Category:Pirate parties	Category:Pirate Party Switzerland
+Category:Pirate parties	Category:Pirate Party of Austria
+Category:Pirate parties	Category:Pirate Party of Luxembourg
+Category:Pirate parties	Category:Pirate Party of Sweden
+Category:Pirate parties	Category:Pirate Party of the Netherlands
+Category:Pirate parties	Category:The Pirate Bay
+Category:Pirate parties	Category:Tunisian Pirate Party
+Category:Point of sale companies	Category:NCR Corporation
+Category:Post-quantum cryptography	Category:Code-based cryptography
+Category:Post-quantum cryptography	Category:Hash-based cryptography
+Category:Post-quantum cryptography	Category:Lattice-based cryptography
+Category:Post-quantum cryptography	Category:Multivariate cryptography
+Category:Pre-computer cryptographers	Category:Pre-19th-century cryptographers
+Category:Priest–penitent privilege	Category:Priest–penitent privilege in England
+Category:Primality tests	Category:Pseudoprimes
+Category:Prison buildings by heritage register	Category:Jails on the National Register of Historic Places
+Category:Prison buildings by heritage register	Category:Listed prison buildings in the United Kingdom
+Category:Prison buildings by heritage register	Category:Prisons on the National Register of Historic Places
+Category:Prison healthcare	Category:Prison physicians
+Category:Prison islands	Category:Alcatraz Island
+Category:Prison islands	Category:Devil's Island
+Category:Prison islands	Category:Robben Island
+Category:Prison massacres	Category:Prison massacres in Sri Lanka
+Category:Prison museums	Category:Prison museums in Australia
+Category:Prison museums	Category:Prison museums in the Republic of Ireland
+Category:Prison museums	Category:Prison museums in the United Kingdom
+Category:Prison museums	Category:Prison museums in the United States
+Category:Prison museums	Category:Robben Island
+Category:Prison ships	Category:Ships of the Gulag
+Category:Prison stubs	Category:Australian prison stubs
+Category:Prison stubs	Category:United States prison stubs
+Category:Prison uprisings	Category:Gulag uprisings
+Category:Prison-related organizations	Category:Anti–death penalty organizations
+Category:Prison-related organizations	Category:Prison and correctional agencies
+Category:Prison-related organizations	Category:Prison charities
+Category:Prison-related organizations	Category:Prison gangs
+Category:Prison-related organizations	Category:Prison museums
+Category:Prison-related organizations	Category:Prison officer organisations
+Category:Prisoners and detainees by prison	Category:Black Dolphin Prison inmates
+Category:Prisoners and detainees by prison	Category:Colditz prisoners of World War II
+Category:Prisoners and detainees by prison	Category:Convicts transported to Australia
+Category:Prisoners and detainees by prison	Category:Inmates of ADX Florence
+Category:Prisoners and detainees by prison	Category:Inmates of Alcatraz Federal Penitentiary
+Category:Prisoners and detainees by prison	Category:Inmates of Bakırköy Prison for Women
+Category:Prisoners and detainees by prison	Category:Inmates of Bereza Kartuska Prison
+Category:Prisoners and detainees by prison	Category:Inmates of HM Prison Belmarsh
+Category:Prisoners and detainees by prison	Category:Inmates of Kosoi Kaponir Fortress
+Category:Prisoners and detainees by prison	Category:Inmates of Kresty Prison
+Category:Prisoners and detainees by prison	Category:Inmates of Lefortovo Prison
+Category:Prisoners and detainees by prison	Category:Inmates of Lukyanivska Prison
+Category:Prisoners and detainees by prison	Category:Inmates of Nusa Kambangan prison
+Category:Prisoners and detainees by prison	Category:Inmates of Robben Island
+Category:Prisoners and detainees by prison	Category:Inmates of Romanian prisons
+Category:Prisoners and detainees by prison	Category:Inmates of Silivri Prison
+Category:Prisoners and detainees by prison	Category:Inmates of Solovki prison camp
+Category:Prisoners and detainees by prison	Category:Inmates of Tihar Jail
+Category:Prisoners and detainees by prison	Category:Inmates of U.S. Military Prison, Alcatraz Island
+Category:Prisoners and detainees by prison	Category:Inmates of Vladimir Central Prison
+Category:Prisoners and detainees by prison	Category:Inmates of White Swan Prison
+Category:Prisoners and detainees by prison	Category:Inmates of the Federal Social Readaptation Center No. 1
+Category:Prisoners and detainees by prison	Category:Inmates of the New Bilibid Prison
+Category:Prisoners and detainees by prison	Category:Native Americans imprisoned at Fort Marion
+Category:Prisoners and detainees by prison	Category:People held at the Guantanamo Bay detention camp
+Category:Prisoners and detainees by prison	Category:People held at the Qahqaheh Castle
+Category:Prisoners and detainees by prison	Category:Prisoners in Fleet Prison
+Category:Prisoners and detainees by prison	Category:Prisoners in Marshalsea
+Category:Prisoners and detainees by prison	Category:Prisoners in the Tower of London
+Category:Prisoners and detainees by prison	Category:Prisoners of Italian fascist internment camps
+Category:Prisoners and detainees by prison	Category:Prisoners of Nazi concentration camps
+Category:Prisoners and detainees by prison	Category:War in Afghanistan (2001–present) detainees by facility
+Category:Prisons	Category:Camps of the Gulag
+Category:Prisons	Category:Debtors' prisons
+Category:Prisons	Category:Defunct prisons
+Category:Prisons	Category:Images of prisons
+Category:Prisons	Category:Immigration detention centers and prisons
+Category:Prisons	Category:Internment camps
+Category:Prisons	Category:Juvenile detention centers
+Category:Prisons	Category:Lists of prisons
+Category:Prisons	Category:Men's prisons
+Category:Prisons	Category:Military prisons
+Category:Prisons	Category:Prison buildings by heritage register
+Category:Prisons	Category:Prison healthcare
+Category:Prisons	Category:Prison islands
+Category:Prisons	Category:Prison massacres
+Category:Prisons	Category:Prison museums
+Category:Prisons	Category:Prison ships
+Category:Prisons	Category:Prison stubs
+Category:Prisons	Category:Prison uprisings
+Category:Prisons	Category:Prison-related organizations
+Category:Prisons	Category:Prisoners and detainees by prison
+Category:Prisons	Category:Prisons by city
+Category:Prisons	Category:Prisons by country
+Category:Prisons	Category:Psychiatric prisons
+Category:Prisons	Category:Wikipedia categories named after prisons
+Category:Prisons	Category:Women's prisons
+Category:Prisons	Category:Works about prisons
+Category:Prisons by city	Category:Prisons in Adelaide
+Category:Prisons by city	Category:Prisons in Beijing
+Category:Prisons by city	Category:Prisons in Bristol
+Category:Prisons by city	Category:Prisons in Cardiff
+Category:Prisons by city	Category:Prisons in Gatesville, Texas
+Category:Prisons by city	Category:Prisons in Geelong
+Category:Prisons by city	Category:Prisons in Hobart
+Category:Prisons by city	Category:Prisons in London
+Category:Prisons by city	Category:Prisons in Melbourne
+Category:Prisons by city	Category:Prisons in New York City
+Category:Prisons by city	Category:Prisons in Paris
+Category:Prisons by city	Category:Prisons in Swansea
+Category:Prisons by city	Category:Prisons in Sydney
+Category:Prisons by city	Category:Prisons in Washington, D.C.
+Category:Prisons by country	Category:Prisons by dependent territory
+Category:Prisons by country	Category:Prisons in Afghanistan
+Category:Prisons by country	Category:Prisons in Albania
+Category:Prisons by country	Category:Prisons in Algeria
+Category:Prisons by country	Category:Prisons in Argentina
+Category:Prisons by country	Category:Prisons in Armenia
+Category:Prisons by country	Category:Prisons in Australia
+Category:Prisons by country	Category:Prisons in Austria
+Category:Prisons by country	Category:Prisons in Bahrain
+Category:Prisons by country	Category:Prisons in Bangladesh
+Category:Prisons by country	Category:Prisons in Barbados
+Category:Prisons by country	Category:Prisons in Belarus
+Category:Prisons by country	Category:Prisons in Belgium
+Category:Prisons by country	Category:Prisons in Belize
+Category:Prisons by country	Category:Prisons in Bolivia
+Category:Prisons by country	Category:Prisons in Bosnia and Herzegovina
+Category:Prisons by country	Category:Prisons in Brazil
+Category:Prisons by country	Category:Prisons in Cambodia
+Category:Prisons by country	Category:Prisons in Cameroon
+Category:Prisons by country	Category:Prisons in Canada
+Category:Prisons by country	Category:Prisons in Chile
+Category:Prisons by country	Category:Prisons in China
+Category:Prisons by country	Category:Prisons in Colombia
+Category:Prisons by country	Category:Prisons in Croatia
+Category:Prisons by country	Category:Prisons in Cuba
+Category:Prisons by country	Category:Prisons in Cyprus
+Category:Prisons by country	Category:Prisons in Denmark
+Category:Prisons by country	Category:Prisons in Dominica
+Category:Prisons by country	Category:Prisons in Egypt
+Category:Prisons by country	Category:Prisons in El Salvador
+Category:Prisons by country	Category:Prisons in Equatorial Guinea
+Category:Prisons by country	Category:Prisons in Eritrea
+Category:Prisons by country	Category:Prisons in Estonia
+Category:Prisons by country	Category:Prisons in Ethiopia
+Category:Prisons by country	Category:Prisons in Finland
+Category:Prisons by country	Category:Prisons in France
+Category:Prisons by country	Category:Prisons in Germany
+Category:Prisons by country	Category:Prisons in Greece
+Category:Prisons by country	Category:Prisons in Guatemala
+Category:Prisons by country	Category:Prisons in Haiti
+Category:Prisons by country	Category:Prisons in Honduras
+Category:Prisons by country	Category:Prisons in Hungary
+Category:Prisons by country	Category:Prisons in Iceland
+Category:Prisons by country	Category:Prisons in India
+Category:Prisons by country	Category:Prisons in Indonesia
+Category:Prisons by country	Category:Prisons in Iran
+Category:Prisons by country	Category:Prisons in Iraq
+Category:Prisons by country	Category:Prisons in Israel
+Category:Prisons by country	Category:Prisons in Italy
+Category:Prisons by country	Category:Prisons in Jamaica
+Category:Prisons by country	Category:Prisons in Japan
+Category:Prisons by country	Category:Prisons in Jordan
+Category:Prisons by country	Category:Prisons in Kenya
+Category:Prisons by country	Category:Prisons in Kosovo
+Category:Prisons by country	Category:Prisons in Laos
+Category:Prisons by country	Category:Prisons in Lebanon
+Category:Prisons by country	Category:Prisons in Libya
+Category:Prisons by country	Category:Prisons in Lithuania
+Category:Prisons by country	Category:Prisons in Luxembourg
+Category:Prisons by country	Category:Prisons in Malawi
+Category:Prisons by country	Category:Prisons in Malaysia
+Category:Prisons by country	Category:Prisons in Malta
+Category:Prisons by country	Category:Prisons in Mauritania
+Category:Prisons by country	Category:Prisons in Mexico
+Category:Prisons by country	Category:Prisons in Montenegro
+Category:Prisons by country	Category:Prisons in Morocco
+Category:Prisons by country	Category:Prisons in Myanmar
+Category:Prisons by country	Category:Prisons in Namibia
+Category:Prisons by country	Category:Prisons in New Zealand
+Category:Prisons by country	Category:Prisons in Nicaragua
+Category:Prisons by country	Category:Prisons in Nigeria
+Category:Prisons by country	Category:Prisons in North Korea
+Category:Prisons by country	Category:Prisons in Norway
+Category:Prisons by country	Category:Prisons in Pakistan
+Category:Prisons by country	Category:Prisons in Panama
+Category:Prisons by country	Category:Prisons in Paraguay
+Category:Prisons by country	Category:Prisons in Peru
+Category:Prisons by country	Category:Prisons in Poland
+Category:Prisons by country	Category:Prisons in Portugal
+Category:Prisons by country	Category:Prisons in Romania
+Category:Prisons by country	Category:Prisons in Russia
+Category:Prisons by country	Category:Prisons in Rwanda
+Category:Prisons by country	Category:Prisons in Saint Lucia
+Category:Prisons by country	Category:Prisons in San Marino
+Category:Prisons by country	Category:Prisons in Saudi Arabia
+Category:Prisons by country	Category:Prisons in Serbia
+Category:Prisons by country	Category:Prisons in Sierra Leone
+Category:Prisons by country	Category:Prisons in Singapore
+Category:Prisons by country	Category:Prisons in Slovakia
+Category:Prisons by country	Category:Prisons in Slovenia
+Category:Prisons by country	Category:Prisons in South Africa
+Category:Prisons by country	Category:Prisons in South Korea
+Category:Prisons by country	Category:Prisons in Spain
+Category:Prisons by country	Category:Prisons in Sri Lanka
+Category:Prisons by country	Category:Prisons in Sweden
+Category:Prisons by country	Category:Prisons in Switzerland
+Category:Prisons by country	Category:Prisons in Syria
+Category:Prisons by country	Category:Prisons in Taiwan
+Category:Prisons by country	Category:Prisons in Thailand
+Category:Prisons by country	Category:Prisons in Turkey
+Category:Prisons by country	Category:Prisons in Uganda
+Category:Prisons by country	Category:Prisons in Ukraine
+Category:Prisons by country	Category:Prisons in Uzbekistan
+Category:Prisons by country	Category:Prisons in Venezuela
+Category:Prisons by country	Category:Prisons in Vietnam
+Category:Prisons by country	Category:Prisons in Yugoslavia
+Category:Prisons by country	Category:Prisons in Zimbabwe
+Category:Prisons by country	Category:Prisons in the Central African Republic
+Category:Prisons by country	Category:Prisons in the Czech Republic
+Category:Prisons by country	Category:Prisons in the Maldives
+Category:Prisons by country	Category:Prisons in the Netherlands
+Category:Prisons by country	Category:Prisons in the Philippines
+Category:Prisons by country	Category:Prisons in the Republic of Ireland
+Category:Prisons by country	Category:Prisons in the Republic of Macedonia
+Category:Prisons by country	Category:Prisons in the Soviet Union
+Category:Prisons by country	Category:Prisons in the United Kingdom
+Category:Prisons by country	Category:Prisons in the United States
+Category:Privacy case law	Category:Internet privacy case law
+Category:Privacy case law	Category:Section Eight Charter case law
+Category:Privacy case law	Category:United Kingdom privacy case law
+Category:Privacy case law	Category:United States Third-Party Doctrine
+Category:Privacy case law	Category:United States privacy case law
+Category:Privacy law	Category:Article 8 of the European Convention on Human Rights
+Category:Privacy law	Category:Data laws
+Category:Privacy law	Category:Personality rights
+Category:Privacy law	Category:Privacy case law
+Category:Privacy law	Category:Privacy law in the United States
+Category:Privacy law	Category:Privacy legislation
+Category:Privacy law	Category:Privileged communication
+Category:Privacy law	Category:Scholars of privacy law
+Category:Privacy law	Category:Searches and seizures
+Category:Privacy law	Category:United Kingdom privacy law
+Category:Privacy law in the United States	Category:Right to abortion under the United States Constitution
+Category:Privacy law in the United States	Category:Right to privacy under the United States Constitution
+Category:Privacy law in the United States	Category:United States Foreign Intelligence Surveillance Court
+Category:Privacy law in the United States	Category:United States Fourth Amendment case law
+Category:Privacy law in the United States	Category:United States Third-Party Doctrine
+Category:Privacy law in the United States	Category:United States federal privacy legislation
+Category:Privacy law in the United States	Category:United States privacy case law
+Category:Privacy law in the United States	Category:United States state privacy legislation
+Category:Privacy legislation	Category:Internet privacy legislation
+Category:Privacy legislation	Category:Medical privacy legislation
+Category:Privacy legislation	Category:Privacy legislation in Canada
+Category:Privacy legislation	Category:United States federal privacy legislation
+Category:Privacy legislation	Category:United States state privacy legislation
+Category:Privacy organizations	Category:Data protection authorities
+Category:Privacy organizations	Category:Defunct privacy organizations
+Category:Privacy organizations	Category:Electronic Frontier Foundation
+Category:Privacy organizations	Category:Internet privacy organizations
+Category:Privacy organizations	Category:Pirate parties
+Category:Privacy software	Category:Internet privacy software
+Category:Privilege escalation exploits	Category:IOS jailbreaking
+Category:Privilege escalation exploits	Category:Rootkits
+Category:Privileged communication	Category:Legal professional privilege
+Category:Privileged communication	Category:Priest–penitent privilege
+Category:Privileged communication	Category:United States evidentiary privilege case law
+Category:Pseudorandom number generators	Category:Cryptographically secure pseudorandom number generators
+Category:Public key infrastructure	Category:Certificate authorities
+Category:Public-key cryptography	Category:Asymmetric-key algorithms
+Category:Public-key cryptography	Category:Attacks on public-key cryptosystems
+Category:Public-key cryptography	Category:Computational hardness assumptions
+Category:Public-key cryptography	Category:Digital signature
+Category:Public-key cryptography	Category:Elliptic curve cryptography
+Category:Public-key cryptography	Category:Identity-based cryptography
+Category:Public-key cryptography	Category:OpenPGP
+Category:Public-key cryptography	Category:Pairing-based cryptography
+Category:Public-key cryptography	Category:Post-quantum cryptography
+Category:Public-key cryptography	Category:Public key infrastructure
+Category:Quantum cryptography	Category:Post-quantum cryptography
+Category:Quantum cryptography	Category:Quantum cryptography protocols
+Category:Radio-frequency identification	Category:Contactless smart cards
+Category:Radio-frequency identification	Category:Electronic toll collection
+Category:Radio-frequency identification	Category:Geolocation
+Category:Radio-frequency identification	Category:Identification friend or foe
+Category:Radio-frequency identification	Category:Indoor positioning system
+Category:Radio-frequency identification	Category:Radio direction finding
+Category:Radio-frequency identification	Category:Radio-frequency identification companies
+Category:Random number generation	Category:Non-uniform random numbers
+Category:Random number generation	Category:Pseudorandom number generators
+Category:Recommender systems	Category:Netflix
+Category:Reputation management	Category:Computational trust
+Category:Reputation management	Category:Recommender systems
+Category:Reputation management	Category:Reputation management companies
+Category:Reputation management	Category:Review websites
+Category:Reputation management	Category:Social reputation in fiction
+Category:Reputation management	Category:Star ranking systems
+Category:Right to Information in India	Category:Right to Information activists
+Category:Rogue software	Category:Scareware
+Category:Rootkits	Category:Rootkit detection software
+Category:Rootkits	Category:Windows rootkit techniques
+Category:Rotor machines	Category:Enigma machine
+Category:Scareware	Category:Ransomware
+Category:Seals (insignia)	Category:Chinese seal art
+Category:Seals (insignia)	Category:Cylinder and impression seals in archaeology
+Category:Seals (insignia)	Category:Engraved gem artists
+Category:Seals (insignia)	Category:Images of official seals
+Category:Seals (insignia)	Category:National seals
+Category:Seals (insignia)	Category:Seals of cities and towns
+Category:Seals (insignia)	Category:Seals of country subdivisions
+Category:Seals (insignia)	Category:Seals of organizations
+Category:Seals (insignia)	Category:Seals of places in the Philippines
+Category:Seals (insignia)	Category:Seals of places in the United States
+Category:Seals of cities and towns	Category:Municipal heraldry of the United States
+Category:Seals of country subdivisions	Category:Indian state seals
+Category:Seals of country subdivisions	Category:United States state seals
+Category:Seals of organizations	Category:Official seals of Oklahoma Indian tribes
+Category:Seals of organizations	Category:Seals of the United States Department of Defense
+Category:Seals of places in the Philippines	Category:Official seals of places in Metro Manila
+Category:Seals of places in the Philippines	Category:Seals of Philippine subdivisions
+Category:Seals of places in the United States	Category:Official seals of places in Alabama
+Category:Seals of places in the United States	Category:Official seals of places in Alaska
+Category:Seals of places in the United States	Category:Official seals of places in Arizona
+Category:Seals of places in the United States	Category:Official seals of places in Arkansas
+Category:Seals of places in the United States	Category:Official seals of places in California
+Category:Seals of places in the United States	Category:Official seals of places in Colorado
+Category:Seals of places in the United States	Category:Official seals of places in Connecticut
+Category:Seals of places in the United States	Category:Official seals of places in Delaware
+Category:Seals of places in the United States	Category:Official seals of places in Florida
+Category:Seals of places in the United States	Category:Official seals of places in Georgia (U.S. state)
+Category:Seals of places in the United States	Category:Official seals of places in Hawaii
+Category:Seals of places in the United States	Category:Official seals of places in Idaho
+Category:Seals of places in the United States	Category:Official seals of places in Illinois
+Category:Seals of places in the United States	Category:Official seals of places in Indiana
+Category:Seals of places in the United States	Category:Official seals of places in Iowa
+Category:Seals of places in the United States	Category:Official seals of places in Kansas
+Category:Seals of places in the United States	Category:Official seals of places in Kentucky
+Category:Seals of places in the United States	Category:Official seals of places in Louisiana
+Category:Seals of places in the United States	Category:Official seals of places in Maine
+Category:Seals of places in the United States	Category:Official seals of places in Maryland
+Category:Seals of places in the United States	Category:Official seals of places in Massachusetts
+Category:Seals of places in the United States	Category:Official seals of places in Michigan
+Category:Seals of places in the United States	Category:Official seals of places in Minnesota
+Category:Seals of places in the United States	Category:Official seals of places in Mississippi
+Category:Seals of places in the United States	Category:Official seals of places in Missouri
+Category:Seals of places in the United States	Category:Official seals of places in Montana
+Category:Seals of places in the United States	Category:Official seals of places in Nebraska
+Category:Seals of places in the United States	Category:Official seals of places in Nevada
+Category:Seals of places in the United States	Category:Official seals of places in New Hampshire
+Category:Seals of places in the United States	Category:Official seals of places in New Jersey
+Category:Seals of places in the United States	Category:Official seals of places in New Mexico
+Category:Seals of places in the United States	Category:Official seals of places in New York (state)
+Category:Seals of places in the United States	Category:Official seals of places in North Carolina
+Category:Seals of places in the United States	Category:Official seals of places in Ohio
+Category:Seals of places in the United States	Category:Official seals of places in Oklahoma
+Category:Seals of places in the United States	Category:Official seals of places in Oregon
+Category:Seals of places in the United States	Category:Official seals of places in Pennsylvania
+Category:Seals of places in the United States	Category:Official seals of places in Rhode Island
+Category:Seals of places in the United States	Category:Official seals of places in South Carolina
+Category:Seals of places in the United States	Category:Official seals of places in Tennessee
+Category:Seals of places in the United States	Category:Official seals of places in Texas
+Category:Seals of places in the United States	Category:Official seals of places in Utah
+Category:Seals of places in the United States	Category:Official seals of places in Vermont
+Category:Seals of places in the United States	Category:Official seals of places in Virginia
+Category:Seals of places in the United States	Category:Official seals of places in Washington (state)
+Category:Seals of places in the United States	Category:Official seals of places in West Virginia
+Category:Seals of places in the United States	Category:Official seals of places in Wisconsin
+Category:Seals of places in the United States	Category:Official seals of places in Wyoming
+Category:Seals of places in the United States	Category:United States state seals
+Category:Searches and seizures	Category:Search and seizure case law
+Category:Searches and seizures	Category:Seized domain names
+Category:Secret broadcasting	Category:Pirate broadcasting
+Category:Secure Shell	Category:SFTP clients
+Category:Secure communication	Category:Anonymity networks
+Category:Secure communication	Category:Computer security
+Category:Secure communication	Category:Cryptography
+Category:Secure communication	Category:Secure telephones
+Category:Secure communication	Category:Transport Layer Security
+Category:Security engineering	Category:Access control
+Category:Security engineering	Category:Computer security
+Category:Security engineering	Category:Engineering failures
+Category:Security engineering	Category:Locksmithing
+Category:Security engineering	Category:Perimeter security
+Category:Security engineering	Category:Prisons
+Category:Security engineering	Category:Secure communication
+Category:Security engineering	Category:Security equipment manufacturers
+Category:Security engineering	Category:Security technology
+Category:Security equipment manufacturers	Category:Fire detection and alarm companies
+Category:Security equipment manufacturers	Category:Lock manufacturers
+Category:Security equipment manufacturers	Category:Video surveillance companies
+Category:Security software	Category:Computer security software
+Category:Security software	Category:Emergency management software
+Category:Security software	Category:Public health and biosurveillance software
+Category:Security software	Category:Security software comparisons
+Category:Security technology	Category:Access control
+Category:Security technology	Category:Biometrics
+Category:Security technology	Category:Computer security
+Category:Security technology	Category:Locks (security device)
+Category:Security technology	Category:Perimeter security
+Category:Security technology	Category:Security software
+Category:Security technology	Category:Vehicle security systems
+Category:Signals intelligence of World War II	Category:Bletchley Park
+Category:Signals intelligence of World War II	Category:Enigma machine
+Category:Signals intelligence of World War II	Category:Venona project
+Category:Signature	Category:Digital signature
+Category:Signature	Category:Images of signatures
+Category:Smart cards	Category:2012 smart cards
+Category:Smart cards	Category:Contactless smart cards
+Category:Smart cards	Category:EMV
+Category:Smart cards	Category:Smart cards introduced in 2009
+Category:Smart cards	Category:Smart cards introduced in 2011
+Category:Social engineering (computer security)	Category:Scareware
+Category:Software update managers	Category:Patch utilities
+Category:Space accidents and incidents	Category:Satellite collisions
+Category:Space accidents and incidents	Category:Satellite launch failures
+Category:Space accidents and incidents	Category:Space accidents and incidents in the Soviet Union
+Category:Space accidents and incidents	Category:Space accidents and incidents in the United States
+Category:Space accidents and incidents	Category:Space program fatalities
+Category:Spammers	Category:Email spammers
+Category:Spammers	Category:Usenet spammers
+Category:Spamming	Category:Anti-spam
+Category:Spamming	Category:Botnets
+Category:Spamming	Category:Spammers
+Category:Spamming	Category:Web scraping
+Category:Spyware	Category:Spyware removal
+Category:Spyware removal	Category:Screenshots of spyware removal
+Category:Subscription services	Category:Streaming music services
+Category:Subscription services	Category:Types of subscription services
+Category:Subscription services	Category:Video on demand subscription services
+Category:Symmetric-key algorithms	Category:Authenticated-encryption schemes
+Category:Symmetric-key algorithms	Category:Ciphers
+Category:Symmetric-key algorithms	Category:Message authentication codes
+Category:Symmetric-key cryptography	Category:S-box
+Category:Symmetric-key cryptography	Category:Symmetric-key algorithms
+Category:System image	Category:Disk images
+Category:System image	Category:Virtualization software
+Category:Telephone numbers	Category:Area code stubs
+Category:Telephone numbers	Category:Emergency telephone numbers
+Category:Telephone numbers	Category:North American Numbering Plan
+Category:Telephone numbers	Category:Telephone directory publishing companies
+Category:Telephone numbers	Category:Telephone number stubs
+Category:Telephone numbers	Category:Telephone numbers by country
+Category:Telephone numbers	Category:Three-digit telephone numbers
+Category:Television presentation	Category:Television presentation in the United Kingdom
+Category:Television presentation	Category:Test cards
+Category:Terms of service	Category:Companies' terms of service
+Category:The Matrix (franchise)	Category:The Matrix (franchise) characters
+Category:The Matrix (franchise)	Category:The Matrix (franchise) films
+Category:The Matrix (franchise)	Category:The Matrix (franchise) music
+Category:The Matrix (franchise)	Category:The Matrix (franchise) video games
+Category:Theory of cryptography	Category:Computational hardness assumptions
+Category:Tor (anonymity network)	Category:Onion linking templates
+Category:Tor (anonymity network)	Category:Tor (anonymity network) stubs
+Category:Tor (anonymity network)	Category:Tor hidden services
+Category:Tor hidden services	Category:Defunct Tor hidden services
+Category:Tor hidden services	Category:The Pirate Bay
+Category:Tracking	Category:Indoor positioning system
+Category:Tracking	Category:Internet object tracking
+Category:Tracking	Category:Motion capture
+Category:Trademarks	Category:Certification marks
+Category:Trademarks	Category:Exercise-related trademarks
+Category:Trademarks	Category:Glass trademarks and brands
+Category:Trademarks	Category:Lists of trademarks
+Category:Trademarks	Category:Sound trademarks
+Category:Trademarks	Category:Trademark law
+Category:Transport Layer Security	Category:Public key infrastructure
+Category:Transport Layer Security	Category:Transport Layer Security implementation
+Category:Trojan horses	Category:Common trojan horse payloads
+Category:Trojan horses	Category:Software that bundles malware
+Category:Trojan horses	Category:Windows trojans
+Category:Trusted computing	Category:Digital rights management
+Category:Trusted computing	Category:Hardware restrictions
+Category:Tunisian Pirate Party	Category:Tunisian Pirate Party politicians
+Category:Turing tests	Category:Chatterbots
+Category:Type 1 encryption algorithms	Category:Advanced Encryption Standard
+Category:Types of branding	Category:Audio branding
+Category:Types of cyberattacks	Category:Data breaches
+Category:Types of cyberattacks	Category:Denial-of-service attacks
+Category:Types of malware	Category:Ransomware
+Category:URI schemes	Category:Telnet
+Category:URI schemes	Category:URL
+Category:Unauthorized video games	Category:Sonic the Hedgehog fangames
+Category:Unauthorized video games	Category:Unofficial works based on Mario
+Category:Unauthorized video games	Category:Video game clones
+Category:Undeciphered historical codes and ciphers	Category:Undeciphered writing systems
+Category:Undeciphered writing systems	Category:Inscriptions in undeciphered writing systems
+Category:Undeciphered writing systems	Category:Manuscripts written in undeciphered writing systems
+Category:Undeciphered writing systems	Category:Proto-Sinaitic script
+Category:Undeciphered writing systems	Category:Rongorongo
+Category:Unique identifiers	Category:International Standard Book Number
+Category:United Kingdom privacy case law	Category:English privacy case law
+Category:United Kingdom privacy law	Category:English privacy law
+Category:United Kingdom privacy law	Category:United Kingdom privacy case law
+Category:United States Army Signals Intelligence Service	Category:Signals Intelligence Service cryptographers
+Category:United States Army Signals Intelligence Service	Category:United States Army Signals Intelligence Service installations
+Category:United States Army Signals Intelligence Service	Category:Venona project
+Category:United States Foreign Intelligence Surveillance Court	Category:Judges of the United States Foreign Intelligence Surveillance Court
+Category:United States Foreign Intelligence Surveillance Court	Category:Judges of the United States Foreign Intelligence Surveillance Court of Review
+Category:United States Foreign Intelligence Surveillance Court	Category:United States Foreign Intelligence Surveillance Court of Review case law
+Category:United States Fourth Amendment case law	Category:United States Third-Party Doctrine
+Category:United States evidentiary privilege case law	Category:United States attorney–client privilege case law
+Category:United States evidentiary privilege case law	Category:United States executive privilege case law
+Category:United States privacy case law	Category:Right to abortion under the United States Constitution
+Category:United States privacy case law	Category:Right to privacy under the United States Constitution
+Category:United States privacy case law	Category:United States Fourth Amendment case law
+Category:United States privacy case law	Category:United States Third-Party Doctrine
+Category:Unix authentication-related software	Category:Linux authentication-related software
+Category:Unix security software	Category:Linux security software
+Category:Unix security-related software	Category:Unix security software
+Category:Vehicle registration plates	Category:Automatic number plate recognition
+Category:Vehicle registration plates	Category:Diplomatic license plates
+Category:Vehicle registration plates	Category:Vehicle registration plates by country
+Category:Venona project	Category:American people in the Venona papers
+Category:Video game console clones	Category:Atari 2600 hardware clones
+Category:Video game console clones	Category:Nintendo Entertainment System hardware clones
+Category:Video game console clones	Category:Super Nintendo Entertainment System hardware clones
+Category:Video game console clones	Category:Unlicensed Nintendo hardware
+Category:Video game console clones	Category:Unlicensed Sega hardware
+Category:Virtual private networks	Category:Dark web
+Category:Virtual private networks	Category:Virtual private network services
+Category:Virtualization software	Category:Containerization software
+Category:Virtualization software	Category:Emulation software
+Category:Virtualization software	Category:Free virtualization software
+Category:Virtualization software	Category:Platform virtualization software
+Category:Virtualization software	Category:VMware
+Category:Virtualization software	Category:Virtual machines
+Category:Virtualization software	Category:Virtualization-related software for Linux
+Category:Vital statistics	Category:Causes of death
+Category:Vital statistics	Category:Civil registries
+Category:Vital statistics	Category:Death indexes
+Category:WWE brand extension	Category:WWE brands
+Category:WWE brand extension	Category:WWE draft
+Category:Warez	Category:Copyright enforcement
+Category:Warez	Category:Warez groups
+Category:Warez	Category:Warez images
+Category:Watermarking	Category:Digital watermarking
+Category:Web analytics	Category:Free web analytics software
+Category:Web analytics	Category:Web log analysis software
+Category:Web scraping	Category:Internet search engines
+Category:White genocide conspiracy theory	Category:White genocide conspiracy theorists
+Category:WikiLeaks	Category:Information published by WikiLeaks
+Category:WikiLeaks	Category:Julian Assange
+Category:WikiLeaks	Category:The Wikileaks Party politicians
+Category:Wikipedia categories named after prisons	Category:Alcatraz Island
+Category:Wikipedia categories named after prisons	Category:Bastille
+Category:Wikipedia categories named after prisons	Category:Colditz Castle
+Category:Wikipedia categories named after prisons	Category:Elmira Correctional Facility
+Category:Wikipedia categories named after prisons	Category:Guantanamo Bay detention camp
+Category:Wikipedia categories named after prisons	Category:HM Prison Belmarsh
+Category:Wikipedia categories named after prisons	Category:Marshalsea
+Category:Wikipedia categories named after prisons	Category:New Bilibid Prison
+Category:Wikipedia categories named after prisons	Category:Robben Island
+Category:Wikipedia categories named after prisons	Category:San Quentin State Prison
+Category:Wikipedia categories named after prisons	Category:Sing Sing
+Category:Wikipedia categories named after prisons	Category:Tower of London
+Category:Wikipedia categories named after prisons	Category:Wikipedia categories named after Nazi concentration camps
+Category:Windows malware	Category:Windows rootkit techniques
+Category:Windows malware	Category:Windows trojans
+Category:Windows malware	Category:Windows viruses
+Category:Women's prisons	Category:Defunct women's prisons in Australia
+Category:Women's prisons	Category:Women in prison films
+Category:Women's prisons	Category:Women's prisons in Australia
+Category:Women's prisons	Category:Women's prisons in Canada
+Category:Women's prisons	Category:Women's prisons in China
+Category:Women's prisons	Category:Women's prisons in France
+Category:Women's prisons	Category:Women's prisons in Ireland
+Category:Women's prisons	Category:Women's prisons in Jamaica
+Category:Women's prisons	Category:Women's prisons in New Zealand
+Category:Women's prisons	Category:Women's prisons in Turkey
+Category:Women's prisons	Category:Women's prisons in the Philippines
+Category:Women's prisons	Category:Women's prisons in the United Kingdom
+Category:Women's prisons	Category:Women's prisons in the United States
+Category:Works about prisons	Category:Memoirs of imprisonment
+Category:Works about prisons	Category:Prisons in fiction
+Category:Works about prisons	Category:Works about the Gulag
+Category:Works about the National Security Agency	Category:Books about the National Security Agency
+Category:Writers about computer security	Category:Computer security academics
